@@ -1,0 +1,9 @@
+version: "3"
+services:
+  lankanangel_web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "3001:80"
