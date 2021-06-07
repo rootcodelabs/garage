@@ -1,0 +1,3 @@
+[submodule "notification-bee/notification-bee-server"]
+	path = notification-bee/notification-bee-server
+	url = https://github.com/lashewi/notification-bee-server
