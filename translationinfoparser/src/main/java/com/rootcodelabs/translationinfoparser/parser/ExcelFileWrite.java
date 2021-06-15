@@ -36,7 +36,7 @@ public class ExcelFileWrite {
         for (File file : filesInFolder) {
             Tika tika = new Tika();
             String filecontent = tika.parseToString (file);
-            String truncatedString = filecontent.substring(15,filecontent.length()-4).trim();
+            String truncatedString = filecontent.substring(15,filecontent.length()-4).replaceAll("(: null)",":\"null\"").trim();
 
             HashMap<String, String> map = new HashMap<String, String>();
             while( truncatedString.indexOf("\"") != ( truncatedString.length() -2 ) || truncatedString.indexOf(":") != -1) {

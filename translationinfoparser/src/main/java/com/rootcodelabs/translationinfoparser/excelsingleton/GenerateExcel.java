@@ -19,7 +19,7 @@ public class GenerateExcel {
         Workbook workbook = new XSSFWorkbook();
 
 
-        Sheet sheet = workbook.createSheet("New Translation Sheet");
+        Sheet sheet = workbook.createSheet("Web Translations");
         sheet.setColumnWidth(0, 6000);
         //sheet.setColumnWidth(1, 4000);
 

@@ -1,0 +1,118 @@
+package com.rootcodelabs.translationinfoparser.parser;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Iterator;
+
+public class ScriptFileWrite {
+
+    public void writeScriptContent() throws IOException {
+
+        String filePath = getClass().getResource("/excels/temp.xlsx").getPath().toString();
+        FileInputStream inputStream = new FileInputStream(new File(filePath));
+
+        Workbook workbook = new XSSFWorkbook(inputStream);
+        Sheet sheet = workbook.getSheetAt(0);
+        String previousRow = sheet.getRow(1).getCell(0).getStringCellValue();
+        int lastRowNum = sheet.getLastRowNum() - 1;
+        Iterator<Row> iterator = sheet.iterator();
+        HashMap<String, String> valuesMapDa = new HashMap<>();
+        HashMap<String, String> valuesMapDe = new HashMap<>();
+        HashMap<String, String> valuesMapEn = new HashMap<>();
+        HashMap<String, String> valuesMapNb = new HashMap<>();
+        HashMap<String, String> valuesMapSv = new HashMap<>();
+        String key = null;
+        String fileName = null;
+
+        while (iterator.hasNext()) {
+            Row nextRow = iterator.next();
+            Iterator<Cell> cellIterator = nextRow.cellIterator();
+            if (nextRow.getRowNum() == 0) {
+                continue;
+            } else {
+
+                while (cellIterator.hasNext()) {
+
+                    Cell cell = cellIterator.next();
+                    if (cell.getColumnIndex() == 0) {
+                        if (previousRow == cell.getStringCellValue() && nextRow.getRowNum() != lastRowNum) {
+                            fileName = cell.getStringCellValue();
+
+                        } else if (nextRow.getRowNum() == lastRowNum) {
+
+                            valuesMapDa.put(nextRow.getCell(1).getStringCellValue(), nextRow.getCell(2).getStringCellValue().equals("null") ? nextRow.getCell(2).getStringCellValue().trim() : "\"" + nextRow.getCell(2).getStringCellValue().trim() + "\"");
+                            scriptFileGenerator("da-DK", valuesMapDa, fileName);
+                            valuesMapDa.clear();
+
+                            valuesMapDe.put(nextRow.getCell(1).getStringCellValue(), nextRow.getCell(3).getStringCellValue().equals("null") ? nextRow.getCell(3).getStringCellValue().trim() : "\"" + nextRow.getCell(3).getStringCellValue().trim() + "\"");
+                            scriptFileGenerator("de-DE", valuesMapDe, fileName);
+                            valuesMapDe.clear();
+
+                            valuesMapEn.put(nextRow.getCell(1).getStringCellValue(), nextRow.getCell(4).getStringCellValue().equals("null") ? nextRow.getCell(4).getStringCellValue().trim() : "\"" + nextRow.getCell(4).getStringCellValue().trim() + "\"");
+                            scriptFileGenerator("en-US", valuesMapEn, fileName);
+                            valuesMapEn.clear();
+
+                            valuesMapNb.put(nextRow.getCell(1).getStringCellValue(), nextRow.getCell(5).getStringCellValue().equals("null") ? nextRow.getCell(5).getStringCellValue().trim() : "\"" + nextRow.getCell(5).getStringCellValue().trim() + "\"");
+                            scriptFileGenerator("nb-NO", valuesMapNb, fileName);
+                            valuesMapNb.clear();
+
+                            valuesMapSv.put(nextRow.getCell(1).getStringCellValue(), nextRow.getCell(6).getStringCellValue().equals("null") ? nextRow.getCell(6).getStringCellValue().trim() : "\"" + nextRow.getCell(6).getStringCellValue().trim() + "\"");
+                            scriptFileGenerator("sv-SE", valuesMapSv, fileName);
+                            valuesMapSv.clear();
+                        } else {
+
+                            scriptFileGenerator("da-DK", valuesMapDa, fileName);
+                            previousRow = cell.getStringCellValue();
+                            valuesMapDa.clear();
+
+                            scriptFileGenerator("de-DE", valuesMapDe, fileName);
+                            valuesMapDe.clear();
+
+                            scriptFileGenerator("en-US", valuesMapEn, fileName);
+                            valuesMapEn.clear();
+
+                            scriptFileGenerator("nb-NO", valuesMapNb, fileName);
+                            valuesMapNb.clear();
+
+                            scriptFileGenerator("sv-SE", valuesMapSv, fileName);
+                            valuesMapSv.clear();
+
+                        }
+                    } else if (cell.getColumnIndex() == 1) {
+                        key = cell.getStringCellValue();
+                    } else if (cell.getColumnIndex() == 2) {
+                        valuesMapDa.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
+                    } else if (cell.getColumnIndex() == 3) {
+                        valuesMapDe.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
+                    } else if (cell.getColumnIndex() == 4) {
+                        valuesMapEn.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
+                    } else if (cell.getColumnIndex() == 5) {
+                        valuesMapNb.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
+                    } else if (cell.getColumnIndex() == 6) {
+                        valuesMapSv.put(key, "\"" + cell.getStringCellValue().trim() + "\"");
+                    }
+                }
+            }
+        }
+    }
+
+    private void scriptFileGenerator(String language, HashMap<String, String> map, String filename) throws IOException {
+
+        File dir = new File("D:\\rootcodelabs\\excelToTypescript\\" + language);
+        if (!dir.exists()) {
+            dir.mkdirs();
+        }
+        FileWriter fileWriter = new FileWriter(new File("D:\\rootcodelabs\\excelToTypescript\\" + language, filename));
+        fileWriter.write("export default " + map.toString().replaceAll("=", ": ").replaceAll("}$", ",};"));
+        fileWriter.close();
+    }
+}
