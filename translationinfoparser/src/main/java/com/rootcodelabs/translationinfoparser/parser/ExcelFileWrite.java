@@ -36,14 +36,15 @@ public class ExcelFileWrite {
         for (File file : filesInFolder) {
             Tika tika = new Tika();
             String filecontent = tika.parseToString (file);
-            String truncatedString = filecontent.substring(16,filecontent.length()-4).replaceAll("\"", "").trim();
+            String truncatedString = filecontent.substring(15,filecontent.length()-4).trim();
 
             HashMap<String, String> map = new HashMap<String, String>();
-            while(truncatedString.indexOf(",") != -1 || truncatedString.indexOf(":") != -1) {
-                String key = truncatedString.substring(0, truncatedString.indexOf(":"));
-                truncatedString = truncatedString.substring(truncatedString.indexOf(":"));
-                String value = truncatedString.substring(1, truncatedString.indexOf(","));
-                truncatedString = truncatedString.substring(truncatedString.indexOf(",") +1);
+            while( truncatedString.indexOf("\"") != ( truncatedString.length() -2 ) || truncatedString.indexOf(":") != -1) {
+                String key = truncatedString.substring(1, truncatedString.indexOf(":"));
+                String truncatedFromColon = truncatedString.substring(truncatedString.indexOf(":")+1);
+                String truncatedFromQuote = truncatedFromColon.substring(truncatedFromColon.indexOf("\"")+1);
+                String value = truncatedFromQuote.substring(0, truncatedFromQuote.indexOf("\"")).replaceAll("\"", "");
+                truncatedString = truncatedFromQuote.substring(truncatedFromQuote.indexOf("\"") +1);
                 map.put(key,value);
             }
             excelGenerator(map,file.toString().substring(file.toString().indexOf("translations") + 19),file.toString().substring(file.toString().indexOf("translations")+13,file.toString().indexOf("translations") + 18));
