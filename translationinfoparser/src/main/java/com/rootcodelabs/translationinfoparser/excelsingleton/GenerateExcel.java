@@ -63,7 +63,7 @@ public class GenerateExcel {
         headerCell.setCellValue("sv-SE (Swedish)");
         headerCell.setCellStyle(headerStyle);
 
-        Row row = workbook.getSheet("New Translation Sheet").createRow(1);
+        Row row = workbook.getSheet("Web Translations").createRow(1);
         Cell cell = row.createCell(0);
 
         return workbook;

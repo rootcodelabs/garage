@@ -13,9 +13,24 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Iterator;
 
+/*
+ Create typescript files from excel file.
+ */
 public class ScriptFileWrite {
 
-    public void writeScriptContent() throws IOException {
+/*
+This method arranges data from the excel file to write into typescript files.And it is assumed that the
+columns of the excel sheet follows below order
+  column 0 :- Filename
+  column 1 :- Translation key
+  column 2 :- da-DK (Danish)
+  column 3 :- de-DE (German)
+  column 4 :- en-US (English)
+  column 5 :- nb-NO (Norwegien)
+  column 6 :- sv-SE (Swedish)
+  And any cells with the same name are not merged.
+ */
+public void writeScriptContent() throws IOException {
 
         String filePath = getClass().getResource("/excels/temp.xlsx").getPath().toString();
         FileInputStream inputStream = new FileInputStream(new File(filePath));
@@ -98,7 +113,7 @@ public class ScriptFileWrite {
                     } else if (cell.getColumnIndex() == 5) {
                         valuesMapNb.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
                     } else if (cell.getColumnIndex() == 6) {
-                        valuesMapSv.put(key, "\"" + cell.getStringCellValue().trim() + "\"");
+                        valuesMapSv.put(key, cell.getStringCellValue().equals("null") ? cell.getStringCellValue().trim() : "\"" + cell.getStringCellValue().trim() + "\"");
                     }
                 }
             }

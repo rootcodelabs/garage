@@ -19,9 +19,9 @@ public class TranslationinfoparserApplication {
 	}
 
 	public static void initializer(){
-//		ExcelFileWrite reader = new ExcelFileWrite();
+//		ExcelFileWrite fileWrite = new ExcelFileWrite();
 //		try {
-//			 reader.writeExcelContent();
+//			 fileWrite.writeExcelContent();
 //		} catch (IOException e) {
 //			e.printStackTrace();
 //		} catch (URISyntaxException e) {

@@ -18,7 +18,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-
+/*
+ Creates an excel file from typescript files
+ */
 public class ExcelFileWrite {
 
     Workbook workbook;
@@ -61,7 +63,7 @@ public class ExcelFileWrite {
      if (language.equals("da-DK")){
 
          map.forEach((k,v)-> {
-             Row rowToFill = workbook.getSheet("New Translation Sheet").getRow(rowIncrementor);
+             Row rowToFill = workbook.getSheet("Web Translations").getRow(rowIncrementor);
              Cell cell0 = rowToFill.createCell(0);
              cell0.setCellValue(filename);
              Cell cell1 = rowToFill.createCell(1);
@@ -69,12 +71,12 @@ public class ExcelFileWrite {
              Cell cell2 = rowToFill.createCell(2);
              cell2.setCellValue(v);
              rowIncrementor++;
-             workbook.getSheet("New Translation Sheet").createRow(rowIncrementor);
+             workbook.getSheet("Web Translations").createRow(rowIncrementor);
 
          });
      }
      else if (language.equals("de-DE")) {
-         Sheet sheet = workbook.getSheet("New Translation Sheet");
+         Sheet sheet = workbook.getSheet("Web Translations");
         for (Row row : sheet) {
             if (row.getCell(0) != null && row.getCell(1) != null && map.containsKey(row.getCell(1).getStringCellValue()) && row.getCell(0).getStringCellValue().equals(filename)) {
                     Cell cell3 = row.createCell(3);
@@ -82,7 +84,7 @@ public class ExcelFileWrite {
             }
         }
      } else if (language.equals("en-US")){
-         Sheet sheet = workbook.getSheet("New Translation Sheet");
+         Sheet sheet = workbook.getSheet("Web Translations");
          for (Row row : sheet) {
              if (row.getCell(0) != null && row.getCell(1) != null && map.containsKey(row.getCell(1).getStringCellValue()) && row.getCell(0).getStringCellValue().equals(filename)) {
                  Cell cell4 = row.createCell(4);
@@ -92,7 +94,7 @@ public class ExcelFileWrite {
          }
 
      } else if (language.equals("nb-NO")){
-         Sheet sheet = workbook.getSheet("New Translation Sheet");
+         Sheet sheet = workbook.getSheet("Web Translations");
          for (Row row : sheet) {
              if (row.getCell(0) != null && row.getCell(1) != null && map.containsKey(row.getCell(1).getStringCellValue()) && row.getCell(0).getStringCellValue().equals(filename)) {
                  Cell cell5 = row.createCell(5);
@@ -102,7 +104,7 @@ public class ExcelFileWrite {
          }
 
      } else if (language.equals("sv-SE")){
-         Sheet sheet = workbook.getSheet("New Translation Sheet");
+         Sheet sheet = workbook.getSheet("Web Translations");
 
          for (Row row : sheet) {
              if (row.getCell(0) != null && row.getCell(1) != null && map.containsKey(row.getCell(1).getStringCellValue()) && row.getCell(0).getStringCellValue().equals(filename)) {
