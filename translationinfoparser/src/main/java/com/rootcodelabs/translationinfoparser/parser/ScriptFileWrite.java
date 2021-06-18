@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.HashMap;
 import java.util.Iterator;
 
@@ -30,14 +31,37 @@ columns of the excel sheet follows below order
   column 6 :- sv-SE (Swedish)
   And any cells with the same name are not merged.
  */
-public void writeScriptContent() throws IOException {
+public void writeScriptContent() throws IOException   {
 
         String filePath = getClass().getResource("/excels/temp.xlsx").getPath().toString();
         FileInputStream inputStream = new FileInputStream(new File(filePath));
 
         Workbook workbook = new XSSFWorkbook(inputStream);
         Sheet sheet = workbook.getSheetAt(0);
+
+        if(sheet.getNumMergedRegions() != 0){
+            throw new UserPrincipalNotFoundException(" Please unmerge merged columns and fill all empty cells generated after unmerging with correct data");
+        }
+
+        if(!sheet.getRow(0).getCell(0).getStringCellValue().equals("Filename")
+                || !sheet.getRow(0).getCell(1).getStringCellValue().equals("Translation key")
+                || !sheet.getRow(0).getCell(2).getStringCellValue().equals("da-DK (Danish)")
+                || !sheet.getRow(0).getCell(3).getStringCellValue().equals("de-DE (German)")
+                || !sheet.getRow(0).getCell(4).getStringCellValue().equals("en-US (English)")
+                || !sheet.getRow(0).getCell(5).getStringCellValue().equals("nb-NO (Norwegien)")
+                || !sheet.getRow(0).getCell(6).getStringCellValue().equals("sv-SE (Swedish)")){
+            throw new UserPrincipalNotFoundException("columns of the excel sheet follows below order\n" +
+                    "  column 0 :- Filename\n" +
+                    "  column 1 :- Translation key\n" +
+                    "  column 2 :- da-DK (Danish)\n" +
+                    "  column 3 :- de-DE (German)\n" +
+                    "  column 4 :- en-US (English)\n" +
+                    "  column 5 :- nb-NO (Norwegien)\n" +
+                    "  column 6 :- sv-SE (Swedish)");
+        }
+
         String previousRow = sheet.getRow(1).getCell(0).getStringCellValue();
+
         int lastRowNum = sheet.getLastRowNum() - 1;
         Iterator<Row> iterator = sheet.iterator();
         HashMap<String, String> valuesMapDa = new HashMap<>();

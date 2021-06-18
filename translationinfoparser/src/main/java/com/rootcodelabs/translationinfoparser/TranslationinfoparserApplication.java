@@ -8,9 +8,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.nio.file.attribute.UserPrincipalNotFoundException;
+import java.util.logging.Logger;
 
 @SpringBootApplication
 public class TranslationinfoparserApplication {
+
+	private static final Logger logger = Logger.getLogger(TranslationinfoparserApplication.class.getName());
 
 	public static void main(String[] args) {
 
@@ -32,8 +36,11 @@ public class TranslationinfoparserApplication {
 		ScriptFileWrite scriptFileWrite = new ScriptFileWrite();
 		try {
 			scriptFileWrite.writeScriptContent();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+		} catch (UserPrincipalNotFoundException e) {
+			//e.printStackTrace();
+			logger.severe("error in parse:"+ e.getName());
+		}  catch (IOException e) {
+		e.printStackTrace();
+	}
 	}
 }
