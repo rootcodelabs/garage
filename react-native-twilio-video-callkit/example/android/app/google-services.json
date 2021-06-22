@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018134226814",
+    "firebase_url": "https://serw-io.firebaseio.com",
+    "project_id": "serw-io",
+    "storage_bucket": "serw-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018134226814:android:17a628513b65f85236752f",
+        "android_client_info": {
+          "package_name": "io.serw.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018134226814-v98o6e7v319bc20ctqealdt3t4m5frvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wnejEEkeWF-AlfxMyYWS23Supmq4_H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018134226814-v98o6e7v319bc20ctqealdt3t4m5frvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
