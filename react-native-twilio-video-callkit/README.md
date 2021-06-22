@@ -170,6 +170,11 @@
       </Video>
     ```
 
+
+# IMPORTANT NOTE
+
+Before running the example project, we need to setup firebase and include the 'google-services.json' in Android and 'GoogleService-Info.plist' in iOS (this is for push notification)
+
 # props
 
 
