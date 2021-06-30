@@ -1,0 +1,18 @@
+[
+  {
+    "id":2,
+    "name":"Mass sending of email",
+    "type":"EMAIL",
+    "title":"Email Consent",
+    "canBeGivenInAPI":true,
+    "canBeTakenBackInAPI":true
+  },
+  {
+    "id":4,
+    "name":"massSendPush",
+    "type":"PUSH",
+    "title":"Pushnotiser",
+    "canBeGivenInAPI":true,
+    "canBeTakenBackInAPI":true
+  }
+]

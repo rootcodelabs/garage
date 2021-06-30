@@ -1,0 +1,28 @@
+[
+  {
+    "id":1,
+    "name":"Regular pricelist",
+    "priceList":null
+  },
+  {
+    "id":3,
+    "name":"Senior citizen",
+    "priceList":null
+  },
+  {
+    "id":5,
+    "name":"Staff",
+    "priceList":{
+      "id":1,
+      "name":"Personal"
+    }
+  },
+  {
+    "id":2,
+    "name":"Student",
+    "priceList":{
+      "id":2,
+      "name":"Yogalärare"
+    }
+  }
+]

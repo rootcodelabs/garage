@@ -1,0 +1,516 @@
+[
+  {
+    "id": 25,
+    "name": "Explore Our Group Classes",
+    "description": null,
+    "sortOrder": 0,
+    "type": "HEADER",
+    "productType": null,
+    "highlight": false,
+    "includeInShortcuts": false
+  },
+  {
+    "id": 2,
+    "name": "Body Attack(Swedish)",
+    "description": "BodyAttack is a commercial group-fitness sports inspired cardio workout program including some sports-derived movements, aimed primarily at developing cardiovascular fitness.",
+    "sortOrder": 3,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": true,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_008",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_008_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_008",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_008_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_008",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_008_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_008",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_008_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Abonnemang",
+    "description": "[Swedish]\nDescription of the subscription category",
+    "sortOrder": 5,
+    "type": "PRODUCT",
+    "productType": "SUBSCRIPTION",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Spinning [Swedish]",
+    "description": "Spinning [Swedish]",
+    "sortOrder": 10,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": true,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_037",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_037_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_037",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_037_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_037",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_037_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_037",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_037_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Intense Training",
+    "description": "This category is a collection of workout modes that helps to  burn body fat and strengthen the upper and lower body parts",
+    "sortOrder": 12,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": true,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_007_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_007_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_007_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_007_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": " Cardiovascular",
+    "description": "This category consist of exercises related to the circulatory system, which comprises the heart and blood vessels and carries nutrients and oxygen to the tissues of the body and removes carbon dioxide and other wastes from them.",
+    "sortOrder": 13,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": true,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_023",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_023_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_023",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_023_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_023",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_023_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_023",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_023_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Les Mills",
+    "description": "[This is the swedish version]\nOver 20 different LES MILLS™ programs to choose from for all fitness levels. From high intensity to low intensity, there's something for everyone.",
+    "sortOrder": 14,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_LesMills_006",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_LesMills_006_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_LesMills_006",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_LesMills_006_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_LesMills_006",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_LesMills_006_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_LesMills_006",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_LesMills_006_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Covid information",
+    "description": "This Category is an Information Category that contains details about covid pandemic\n",
+    "sortOrder": 15,
+    "type": "INFORMATION",
+    "productType": "INFORMATION",
+    "highlight": false,
+    "includeInShortcuts": false
+  },
+  {
+    "id": 18,
+    "name": "Weekly Yoga ",
+    "description": "This is the swedish translation",
+    "sortOrder": 17,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_009",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_009_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Workout Combo",
+    "description": "This category contains exercise/workout sessions that combines a mix of different exercise categories. Our wide range of classes will inspire you to explore new training styles and techniques, while keeping you motivated with other like-minded members.",
+    "sortOrder": 18,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": true,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_024_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_024_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_024_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_024_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "IW Fitness - Swedish",
+    "description": "This is the Swedish translation",
+    "sortOrder": 19,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_025_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_025_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_025_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_025_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "test",
+    "description": "[Fallback]\ntest information with link\nThis is an information only category. No booking. https://google.com",
+    "sortOrder": 20,
+    "type": "INFORMATION",
+    "productType": "INFORMATION",
+    "highlight": false,
+    "includeInShortcuts": false
+  },
+  {
+    "id": 22,
+    "name": "Fitness First ",
+    "description": null,
+    "sortOrder": 21,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_052_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_052_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_052_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_052_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "SPIN STUDIO",
+    "description": "Work up a sweat in this cycling class, an incredible low-impact way to burn calories and tone muscle.",
+    "sortOrder": 23,
+    "type": "PRODUCT",
+    "productType": "GROUP_ACTIVITY",
+    "highlight": false,
+    "includeInShortcuts": false,
+    "assets": [
+      {
+        "reference": "WebCategory_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_031_main_s.jpg",
+        "imageWidth": 124,
+        "imageHeight": 124
+      },
+      {
+        "reference": "WebCategory_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_031_main_m.jpg",
+        "imageWidth": 268,
+        "imageHeight": 268
+      },
+      {
+        "reference": "WebCategory_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_031_main_l.jpg",
+        "imageWidth": 402,
+        "imageHeight": 402
+      },
+      {
+        "reference": "WebCategory_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/WebCategory_031_main_xl.jpg",
+        "imageWidth": 536,
+        "imageHeight": 536
+      }
+    ]
+  }
+]

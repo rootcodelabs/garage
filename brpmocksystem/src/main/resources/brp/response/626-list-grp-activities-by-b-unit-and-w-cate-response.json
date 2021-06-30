@@ -1,0 +1,509 @@
+[
+  {
+    "id": 660,
+    "name": "DOMS",
+    "duration": {
+      "start": "0T07:00:00.000Z",
+      "end": "0T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "0T05:00:00.000Z",
+    "bookableLatest": "0T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 661,
+    "name": "DOMS",
+    "duration": {
+      "start": "1T07:00:00.000Z",
+      "end": "1T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "1T05:00:00.000Z",
+    "bookableLatest": "1T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 662,
+    "name": "DOMS",
+    "duration": {
+      "start": "2T07:00:00.000Z",
+      "end": "2T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "2T05:00:00.000Z",
+    "bookableLatest": "2T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 664,
+    "name": "DOMS",
+    "duration": {
+      "start": "4T07:00:00.000Z",
+      "end": "4T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "4T05:00:00.000Z",
+    "bookableLatest": "4T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 665,
+    "name": "DOMS",
+    "duration": {
+      "start": "5T07:00:00.000Z",
+      "end": "5T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "5T05:00:00.000Z",
+    "bookableLatest": "5T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 666,
+    "name": "DOMS",
+    "duration": {
+      "start": "6T07:00:00.000Z",
+      "end": "6T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "6T05:00:00.000Z",
+    "bookableLatest": "6T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 667,
+    "name": "DOMS",
+    "duration": {
+      "start": "7T07:00:00.000Z",
+      "end": "7T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "7T05:00:00.000Z",
+    "bookableLatest": "7T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 668,
+    "name": "DOMS",
+    "duration": {
+      "start": "8T07:00:00.000Z",
+      "end": "8T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "8T05:00:00.000Z",
+    "bookableLatest": "8T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 669,
+    "name": "DOMS",
+    "duration": {
+      "start": "9T07:00:00.000Z",
+      "end": "9T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "9T05:00:00.000Z",
+    "bookableLatest": "9T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 670,
+    "name": "DOMS",
+    "duration": {
+      "start": "10T07:00:00.000Z",
+      "end": "10T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "10T05:00:00.000Z",
+    "bookableLatest": "10T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 671,
+    "name": "DOMS",
+    "duration": {
+      "start": "11T07:00:00.000Z",
+      "end": "11T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "11T05:00:00.000Z",
+    "bookableLatest": "11T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 672,
+    "name": "DOMS",
+    "duration": {
+      "start": "12T07:00:00.000Z",
+      "end": "12T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "12T05:00:00.000Z",
+    "bookableLatest": "12T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 673,
+    "name": "DOMS",
+    "duration": {
+      "start": "13T07:00:00.000Z",
+      "end": "13T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 27,
+        "name": "Room 1 (G)"
+      }
+    ],
+    "instructors": [],
+    "bookableEarliest": "13T05:00:00.000Z",
+    "bookableLatest": "13T05:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  }
+]

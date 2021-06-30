@@ -1,0 +1,31 @@
+{
+  "errorCode": "INVALID_INPUT",
+  "fieldErrors": [
+    {
+      "field": "messageType",
+      "errorCode": "FIELD_NOT_ANY_OF",
+      "list": [
+        "appInfo",
+        "bookingCancellationTerms",
+        "bookingInformations",
+        "bookingTerms",
+        "consentMassSendEmail",
+        "consentMassSendMail",
+        "consentMassSendSms",
+        "disclaimer",
+        "membershipIsRequiredText",
+        "noShowTerms",
+        "openingHours",
+        "orderConfirmation",
+        "parentalConsentToRegister",
+        "pensionerCertificate",
+        "personDetailsPolicy",
+        "registrationTerms",
+        "studentCertificate",
+        "subscriptionTerms",
+        "waitingListTerms",
+        "youthCertificate"
+      ]
+    }
+  ]
+}

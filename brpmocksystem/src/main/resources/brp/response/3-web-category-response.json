@@ -1,0 +1,44 @@
+{
+  "id":3,
+  "name":"Best Budget Membership",
+  "description":"For just $10 per month, members can access virtually all types of cardio machines, basic weight machines, floor space, dumbbells, and barbells",
+  "sortOrder":6,
+  "type":"PRODUCT",
+  "productType":"SUBSCRIPTION",
+  "highlight":false,
+  "includeInShortcuts":true,
+  "assets":[
+    {
+      "reference":"WebCategory_044",
+      "type":"MAIN",
+      "contentType":"image/jpg",
+      "contentUrl":"https://storage.googleapis.com/brp-app-assets/WebCategory_044_main_s.jpg",
+      "imageWidth":124,
+      "imageHeight":124
+    },
+    {
+      "reference":"WebCategory_044",
+      "type":"MAIN",
+      "contentType":"image/jpg",
+      "contentUrl":"https://storage.googleapis.com/brp-app-assets/WebCategory_044_main_m.jpg",
+      "imageWidth":268,
+      "imageHeight":268
+    },
+    {
+      "reference":"WebCategory_044",
+      "type":"MAIN",
+      "contentType":"image/jpg",
+      "contentUrl":"https://storage.googleapis.com/brp-app-assets/WebCategory_044_main_l.jpg",
+      "imageWidth":402,
+      "imageHeight":402
+    },
+    {
+      "reference":"WebCategory_044",
+      "type":"MAIN",
+      "contentType":"image/jpg",
+      "contentUrl":"https://storage.googleapis.com/brp-app-assets/WebCategory_044_main_xl.jpg",
+      "imageWidth":536,
+      "imageHeight":536
+    }
+  ]
+}

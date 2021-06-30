@@ -1,0 +1,9 @@
+{
+  "username": "151",
+  "roles": [
+    "ROLE_CUSTOMER"
+  ],
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNTEiLCJleHAiOjE2MjIxOTQ2NDEsImlhdCI6MTYyMTU4OTg0MSwicm9sZXMiOlsiUk9MRV9DVVNUT01FUiJdfQ.XSuEKyH0zjm9q-l4ZDf75Yiku_EZ9Mzhm8Y1ve7_VPA",
+  "expires_in": 604754
+}

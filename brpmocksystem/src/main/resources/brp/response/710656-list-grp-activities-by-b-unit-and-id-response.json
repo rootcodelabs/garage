@@ -1,0 +1,45 @@
+{
+  "id": 10656,
+  "name": "Anaerobic Training for Beginners",
+  "duration": {
+    "start": "0T17:00:00.000Z",
+    "end": "0T17:45:00.000Z"
+  },
+  "groupActivityProduct": {
+    "id": 155,
+    "name": "Anaerobic Training for Beginners"
+  },
+  "businessUnit": {
+    "id": 7,
+    "name": "BRP Gym Linköping",
+    "location": "SE",
+    "companyNameForInvoice": "BRP Gym Company"
+  },
+  "locations": [
+    {
+      "id": 33,
+      "name": "Room 1 (L)"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 15,
+      "name": "Jacob (L)",
+      "isSubstitute": false
+    }
+  ],
+  "bookableEarliest": "0T15:00:00.000Z",
+  "bookableLatest": "0T15:00:00.000Z",
+  "externalMessage": "During the pandemic this class is outdoors",
+  "internalMessage": null,
+  "cancelled": false,
+  "slots": {
+    "total": 30,
+    "totalBookable": 30,
+    "reservedForDropin": 0,
+    "leftToBook": 30,
+    "leftToBookIncDropin": 30,
+    "hasWaitingList": true,
+    "inWaitingList": 0
+  }
+}

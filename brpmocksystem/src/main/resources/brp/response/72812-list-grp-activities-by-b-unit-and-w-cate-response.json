@@ -1,0 +1,711 @@
+[
+  {
+    "id": 12824,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T06:45:00.000Z",
+      "end": "5T07:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 16552,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T07:00:00.000Z",
+      "end": "5T07:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 11619,
+    "name": "Aerobic Training - 1hour session",
+    "duration": {
+      "start": "5T07:15:00.000Z",
+      "end": "5T08:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 98,
+      "name": "Aerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 11919,
+    "name": "Aerobic Training - 2hour session ",
+    "duration": {
+      "start": "5T07:30:00.000Z",
+      "end": "5T09:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 169,
+      "name": "Aerobic Training - 2hour session "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 5,
+      "totalBookable": 0,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 5,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 3068,
+    "name": "Aerobic Training - 1hour session",
+    "duration": {
+      "start": "5T08:30:00.000Z",
+      "end": "5T09:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 98,
+      "name": "Aerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 4113,
+    "name": "Anaerobic Training - 1hour session",
+    "duration": {
+      "start": "5T09:15:00.000Z",
+      "end": "5T10:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 101,
+      "name": "Anaerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 5,
+      "totalBookable": 0,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 5,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 11969,
+    "name": "Aerobic Training - 1hour session",
+    "duration": {
+      "start": "5T09:30:00.000Z",
+      "end": "5T10:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 98,
+      "name": "Aerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 2571,
+    "name": "Aerobic Training - 1hour session",
+    "duration": {
+      "start": "5T11:00:00.000Z",
+      "end": "5T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 98,
+      "name": "Aerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14141,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T12:00:00.000Z",
+      "end": "5T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 14532,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T12:15:00.000Z",
+      "end": "5T13:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 42,
+        "name": "I am the instructor Isuri with a long long long name",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 6872,
+    "name": "Anaerobic Training - 1hour session",
+    "duration": {
+      "start": "5T15:00:00.000Z",
+      "end": "5T16:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 101,
+      "name": "Anaerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 5,
+      "totalBookable": 0,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 5,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 13777,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T15:30:00.000Z",
+      "end": "5T16:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 15782,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T16:30:00.000Z",
+      "end": "5T17:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 13177,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T17:30:00.000Z",
+      "end": "5T18:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 12169,
+    "name": "DOMS",
+    "duration": {
+      "start": "5T17:30:00.000Z",
+      "end": "5T18:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 56,
+      "name": "DOMS"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 42,
+        "name": "I am the instructor Isuri with a long long long name",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "5T15:30:00.000Z",
+    "bookableLatest": "5T15:30:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 25,
+      "reservedForDropin": 5,
+      "leftToBook": 25,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 13206,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "5T17:45:00.000Z",
+      "end": "5T18:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  }
+]

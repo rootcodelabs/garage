@@ -1,0 +1,9 @@
+[
+  {
+    "id":109,
+    "businessUnit":null,
+    "title":null,
+    "body":"<h1>This is an example template for booking terms<\u002fh1>\n\n<h2>Booking<\u002fh2>\n<p>You can book classes one day in advance, but no later than 30 minutes before the class starts. To get your ticket, register your member card<br> in a reader no later than <b>5 minutes before the class<\u002fb><\u002fp>\n\n<h2>Cancellation<\u002fh2>\n<p>Cancel your booking no later than <b>one hour<\u002fb> before the class if you cannot attend. If you miss three classes you can no longer book online without paying a fee.<\u002fp>\n \n<h2>Payment<\u002fh2>\n<ul>\n  <li>Conditions....<\u002fli> \n \n<\u002ful>\n \n<h2>Product information and prices<\u002fh2>\n<ul> \n  <li>Info.....<\u002fli>\n  <li>More info.....<\u002fli>\n<\u002ful>\n\n<h2>Handeling of personal information<\u002fh2>\n<ul>\n  <li>Info<\u002fli>\n   <li>Info<\u002fli>\n    <li>Info<\u002fli>\n   <li>Info<\u002fli>\n   <li>Info<\u002fli>\n    <li>Info<\u002fli>\n     <li>Info<\u002fli><\u002fli>\n<\u002ful>\n<h2>Return policy<\u002fh2>\n<ul>\n  <li>Info<\u002fli>\n<\u002ful>\n\n \n<h2>Delivery<\u002fh2>\n<ul>\n  <li>Info<\u002fli>\n<\u002ful>\n\n<h2>Your agreement with Rootcome Gym Inc<\u002fh2>\n<ul>\n  <li>info<\u002fli>\n<\u002ful>\n \n*RCL Gym*<br>\nStreetname 1<br>\n123 45 City<br>\nPhone: 0XX-XX XX XX<br>\ncontact@email.se<br>\nOrganization number: XXXXXXXXX<br>",
+    "language":"en"
+  }
+]

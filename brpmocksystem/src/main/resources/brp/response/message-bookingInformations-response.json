@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100,
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "title": "Bokningsinformation",
+    "body": "This is the swedish booking information.\n\nOpening hours\nMonday 08-15\nTuesday 08-15\nMonday 08-15\nMonday 08-15\nTuesday 08-15\n\nClasses can be booked one week ahead, and cancelled no later than two hours before.",
+    "language": "sv"
+  }
+]

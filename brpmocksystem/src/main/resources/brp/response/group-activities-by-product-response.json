@@ -1,0 +1,91 @@
+{
+  "id": 43,
+  "name": "Interval Training for Beginners",
+  "productLabels": [
+    {
+      "id": 2,
+      "name": "Spinning"
+    }
+  ],
+  "businessUnits": [
+    {
+      "id": 6,
+      "name": "BRP Gym Gothenburg",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    {
+      "id": 12,
+      "name": "Testanläggning",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    }
+  ],
+  "description": "An interval is simply a period of activity or a period of rest. While this often refers to HIIT workouts. You can implement intervals in pretty much any workout. Maybe that’s 30 seconds of work and 15 seconds of rest, or 15 minutes of work and 2 minutes of rest—it depends on what you’re doing and what your goals are.",
+  "assets": [
+    {
+      "reference": "GroupActivity_030",
+      "type": "MAIN",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_s.jpg",
+      "imageWidth": 380,
+      "imageHeight": 328
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "MAIN",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_m.jpg",
+      "imageWidth": 760,
+      "imageHeight": 656
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "MAIN",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_l.jpg",
+      "imageWidth": 1140,
+      "imageHeight": 984
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "MAIN",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_xl.jpg",
+      "imageWidth": 1520,
+      "imageHeight": 1312
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "CENTERED",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_s.jpg",
+      "imageWidth": 64,
+      "imageHeight": 112
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "CENTERED",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_m.jpg",
+      "imageWidth": 128,
+      "imageHeight": 224
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "CENTERED",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_l.jpg",
+      "imageWidth": 192,
+      "imageHeight": 336
+    },
+    {
+      "reference": "GroupActivity_030",
+      "type": "CENTERED",
+      "contentType": "image/jpg",
+      "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_xl.jpg",
+      "imageWidth": 256,
+      "imageHeight": 448
+    }
+  ]
+}

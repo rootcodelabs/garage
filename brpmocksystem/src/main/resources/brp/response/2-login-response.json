@@ -1,0 +1,10 @@
+{
+  "username":"142",
+  "roles":[
+    "ROLE_CUSTOMER"
+  ],
+  "token_type":"Bearer",
+  "access_token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNDIiLCJub25QdWJsaWNXZWJDYXQiOnRydWUsImV4cCI6MTYyNTU1MzM5OSwiaWF0IjoxNjI0OTQ4NTk5LCJyb2xlcyI6WyJST0xFX0NVU1RPTUVSIl19.zxPOPGB1nmK_p7R8iEkhRxyC1B1Mdvgbuf4BKwl1xII",
+  "expires_in":604800,
+  "refresh_token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNDIiLCJub25QdWJsaWNXZWJDYXQiOnRydWUsImlhdCI6MTYyNDk0ODU5OSwiaGFzaCI6InpPVnJGZUx5Iiwicm9sZXMiOlsiUk9MRV9DVVNUT01FUiJdfQ.ktKtuDErQXiCe8oY6d52umusfK8VyLvNyNIAWb-pYkM"
+}

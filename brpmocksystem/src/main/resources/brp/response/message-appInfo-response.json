@@ -1,0 +1,9 @@
+[
+  {
+    "id": 86,
+    "businessUnit": null,
+    "title": null,
+    "body": "<!DOCTYPE html>\n<html>\n<head>\n<style>\nh3 {text-align:center;}\np {text-align:center;}\n</style>\n</head>    \n<body>\n<h3>Välkommen till Anläggningens namn</h3>\n<p>Öppettider:</p>\n<table align=\"center\">\n<tr><td>Måndag: </td><td>06.00 - 21.00 </td></tr>\n<tr><td>Tisdag: </td><td>06.00 - 21.00 </td></tr>\n<tr><td>Onsdag: </td><td>06.00 - 21.00 </td></tr>\n<tr><td>Torsdag:</td><td>06.00 - 21.00 </td></tr>\n<tr><td>Fredag: </td><td>06.00 - 19.00 </td></tr>\n<tr><td>Lördag: </td><td>08.00 - 18.00 </td></tr>\n<tr><td>Söndag: </td><td>08.00 - 17.00 </td></tr>\n</table>\n</body>\n</html>",
+    "language": null
+  }
+]

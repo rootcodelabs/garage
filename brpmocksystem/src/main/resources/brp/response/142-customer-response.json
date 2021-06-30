@@ -1,0 +1,61 @@
+{
+  "id":142,
+  "firstName":"Isuri",
+  "lastName":"Wickramasinghe",
+  "sex":"female",
+  "ssn":"601203-8466",
+  "birthDate":"1960-12-03",
+  "shippingAddress":{
+    "postalCode":"95223",
+    "city":"BÅTSKÄRSNÄS",
+    "street":"Västerviksgatan 87",
+    "careOf":"YD",
+    "country":{
+      "id":205,
+      "name":"Sweden",
+      "alpha2":"SE"
+    }
+  },
+  "billingAddress":null,
+  "email":"rootcodelabs@example.com",
+  "mobilePhone":{
+    "number":"0735201141",
+    "countryCode":46
+  },
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "customerType":null,
+  "customerTypeEndDate":null,
+  "customerNumber":"505",
+  "cardNumber":null,
+  "acceptedBookingTerms":true,
+  "acceptedSubscriptionTerms":false,
+  "acceptedRegistrationTerms":"2021-06-21T07:30:00.000Z",
+  "profileImage":{
+    "id":25
+  },
+  "benefitStatus":null,
+  "memberJoinDate":"2021-06-04",
+  "allowMassSendEmail":true,
+  "allowMassSendMail":true,
+  "allowMassSendSms":true,
+  "consents":[
+    {
+      "id":1,
+      "name":"Mass sending of letters"
+    },
+    {
+      "id":2,
+      "name":"Mass sending of email"
+    },
+    {
+      "id":3,
+      "name":"Mass sending of sms"
+    }
+  ],
+  "temporary":null
+}

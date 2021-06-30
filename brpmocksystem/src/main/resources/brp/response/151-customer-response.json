@@ -1,0 +1,48 @@
+{
+  "id": 151,
+  "firstName": "Isuri",
+  "lastName": "Imalsha Wickramasinghe Wickramasinghe",
+  "sex": null,
+  "ssn": null,
+  "birthDate": null,
+  "shippingAddress": null,
+  "billingAddress": null,
+  "email": "wicky@gmail.com",
+  "mobilePhone": null,
+  "businessUnit": {
+    "id": 7,
+    "name": "BRP Gym Linköping",
+    "location": "SE",
+    "companyNameForInvoice": "BRP Gym Company"
+  },
+  "customerType": null,
+  "customerTypeEndDate": null,
+  "customerNumber": "10138",
+  "cardNumber": null,
+  "acceptedBookingTerms": false,
+  "acceptedSubscriptionTerms": false,
+  "acceptedRegistrationTerms": null,
+  "profileImage": {
+    "id": 22
+  },
+  "benefitStatus": null,
+  "memberJoinDate": "2021-03-31",
+  "allowMassSendEmail": true,
+  "allowMassSendMail": true,
+  "allowMassSendSms": true,
+  "consents": [
+    {
+      "id": 1,
+      "name": "Massutskick av brev"
+    },
+    {
+      "id": 2,
+      "name": "Massutskick av e-post"
+    },
+    {
+      "id": 3,
+      "name": "Massutskick av sms"
+    }
+  ],
+  "temporary": null
+}

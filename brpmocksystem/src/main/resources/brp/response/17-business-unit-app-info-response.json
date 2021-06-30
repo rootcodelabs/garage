@@ -1,0 +1,9 @@
+[
+  {
+    "id":86,
+    "businessUnit":null,
+    "title":null,
+    "body":"<!DOCTYPE html>\n<html>\n<head>\n<style>\nh3 {text-align:center;}\np {text-align:center;}\n<\u002fstyle>\n<\u002fhead>    \n<body>\n<h3>Välkommen till Anläggningens namn<\u002fh3>\n<p>Öppettider:<\u002fp>\n<table align=\"center\">\n<tr><td>Måndag: <\u002ftd><td>06.00 - 21.00 <\u002ftd><\u002ftr>\n<tr><td>Tisdag: <\u002ftd><td>06.00 - 21.00 <\u002ftd><\u002ftr>\n<tr><td>Onsdag: <\u002ftd><td>06.00 - 21.00 <\u002ftd><\u002ftr>\n<tr><td>Torsdag:<\u002ftd><td>06.00 - 21.00 <\u002ftd><\u002ftr>\n<tr><td>Fredag: <\u002ftd><td>06.00 - 19.00 <\u002ftd><\u002ftr>\n<tr><td>Lördag: <\u002ftd><td>08.00 - 18.00 <\u002ftd><\u002ftr>\n<tr><td>Söndag: <\u002ftd><td>08.00 - 17.00 <\u002ftd><\u002ftr>\n<\u002ftable>\n<img src= \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKaEJjesUdX_tfPHiGX9tu4X1dVM_ILv1zA&usqp=CAU\" src=\"time table\" >\n<\u002fbody>\n<\u002fhtml>",
+    "language":null
+  }
+]

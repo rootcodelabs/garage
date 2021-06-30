@@ -1,0 +1,3114 @@
+[
+  {
+    "id": 29,
+    "name": "HIIT - 30mins session",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Spinningprodukt"
+  },
+  {
+    "id": 43,
+    "name": "Interval Training for Beginners",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 12,
+        "name": "Testanläggning",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "An interval is simply a period of activity or a period of rest. While this often refers to HIIT workouts. You can implement intervals in pretty much any workout. Maybe that’s 30 seconds of work and 15 seconds of rest, or 15 minutes of work and 2 minutes of rest—it depends on what you’re doing and what your goals are.",
+    "assets": [
+      {
+        "reference": "GroupActivity_030",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_030",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_030_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "DOMS",
+    "productLabels": [
+      {
+        "id": 10,
+        "name": "Classes"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 12,
+        "name": "Testanläggning",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "DOMS stands for delayed onset muscle soreness, which is the soreness you feel the day or two after a hard workout. This happens because when you’re working out you’re damaging muscle fibers (that’s a good thing!). The muscle then repairs and rebuilds and that’s how you get stronger. The soreness and pain you feel from DOMS comes from the chemicals that set off pain receptors during the repair process"
+  },
+  {
+    "id": 76,
+    "name": "Dynamic Warm  Up - Leg Cradle To Side Lunge",
+    "productLabels": [
+      {
+        "id": 10,
+        "name": "Classes"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": "This stretch improves mobility and flexibility of your hips, ankles, thighs, and knees. This comes in handy during lower body exercises like squats, where you need your hips and ankles to be loosened up to get the full range of motion"
+  },
+  {
+    "id": 77,
+    "name": "Dynamic Warm Up - Three-Point T-Spine",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": "Your mobility in your elbows, shoulders, and upper back should improve with this stretch, and so should the flexibility of your chest"
+  },
+  {
+    "id": 95,
+    "name": "Heart Rate Zone",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "During your workout you have “target” heart rate zones that are expressed as a percentage of your max heart rate. For low-intensity cardio, you want to aim for 60 to 70 percent of your max heart rate, for moderate-intensity cardio the goal is 70 to 85 percent, and for high-intensity cardio, 85 percent or above. This can help you see if you’re really working as hard as you think you are and adjust as needed to make sure you’re hitting your workout goals."
+  },
+  {
+    "id": 96,
+    "name": "Boot Camp Training - Level 3",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Spinningprodukt",
+    "assets": [
+      {
+        "reference": "GroupActivity_043",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_043",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_043_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Boot Camp Training - Level 2",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "These classes are rooted in military-style training, so are typically pretty tough, and they often include a combination of cardio and strength exercises. “Boot camp programs are designed to build strength and fitness through a variety of intense group intervals,” explains Denver-based personal trainer Tara Laferrara. “It often starts with running, followed by a wide variety of interval training, including bodyweight moves like push-ups and sit-ups, and various types of intense explosive exercises.”",
+    "assets": [
+      {
+        "reference": "GroupActivity_034",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_034",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_034_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Aerobic Training - 1hour session",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "“Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system,” explains Lefkowith. “[Energy systems] relate to how your body produces energy to fuel your workouts.” During aerobic exercise, your body uses oxygen for energy, which helps keep you moving for an extended period of time, like a long walk, run, or bike ride.",
+    "assets": [
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Cardio Aerobics Training ",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "“Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system,” explains Lefkowith. “[Energy systems] relate to how your body produces energy to fuel your workouts.” During aerobic exercise, your body uses oxygen for energy, which helps keep you moving for an extended period of time, like a long walk, run, or bike ride.",
+    "assets": [
+      {
+        "reference": "GroupActivity_076",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_076",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_076_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Active Recovery with gentle Yoga",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "This is one way to spend your “rest” day. So instead of lounging on the couch all day you’ll schedule some sort of low-intensity activity like light walking or gentle yoga. The reason why you might want to do this, instead of nothing, is that incorporating gentle movement into these days can help with circulation (which can ease soreness and reduce muscle fatigue). And remember, whether it’s gentle activity or complete rest, your body needs time to recover—when you work out, you’re breaking down muscle fibers, and recovery is when the real magic happens as your muscles rebuild stronger.",
+    "assets": [
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Anaerobic Training - 1hour session",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "“Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system,” explains Lefkowith. “[Energy systems] relate to how your body produces energy to fuel your workouts.” During aerobic exercise, your body uses oxygen for energy, which helps keep you moving for an extended period of time, like a long walk, run, or bike ride.",
+    "assets": [
+      {
+        "reference": "GroupActivity_036",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_036",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_036_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Circuit Training - 2hour session",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": null,
+    "assets": [
+      {
+        "reference": "GroupActivity_001",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_001",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_001_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Circuit Training for Beginners",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Spinningprodukt",
+    "assets": [
+      {
+        "reference": "GroupActivity_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_024",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_024_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Zumba Workout - Basic",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Zumba is an interval workout. The classes move between high- and low-intensity dance moves designed to get your heart rate up and boost cardio endurance."
+  },
+  {
+    "id": 105,
+    "name": "Zumba Workout - Intermediate ",
+    "productLabels": [
+      {
+        "id": 2,
+        "name": "Spinning"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Zumba is an interval workout. The classes move between high- and low-intensity dance moves designed to get your heart rate up and boost cardio endurance."
+  },
+  {
+    "id": 145,
+    "name": "Polymetrics Workouts - Sumo Jump Squats",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Start with your feet wider than your hips with a 45-degree turnout. Lower down into a squat position (you may feel a stretch in your inner thighs), then jump up into the air as high as you can and straighten out your legs. Land back on the floor with soft knees and return back to the sumo squat position."
+  },
+  {
+    "id": 148,
+    "name": "Form Rolling - 45mins session",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Foam rolling is a form of massage (or trigger point release) that you can do to loosen tight muscles to help improve your mobility. Using a foam roller helps smooth out “knots” in your fascia (the layer of connective tissue surrounding your muscles), which can get in the way of your range of motion. This is crucial for performing exercises with correct form and making sure the right muscle fibers are firing away. While you can stop, drop, and foam roll anytime, it’s often recommended to spend a few minutes with the foam roller before your workout to help get the juices flowing",
+    "assets": [
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Polymetrics Workouts - Single-Leg Deadlift + Hop",
+    "productLabels": [
+      {
+        "id": 1,
+        "name": "Yoga"
+      },
+      {
+        "id": 11,
+        "name": "Gym"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Start with your feet hip-width apart. Lift your left leg and extend it behind you as you tilt forward with your chest (keep a slight bend in your right leg). Then, bring your chest back up, as you lower your left leg and pass it through center to bring it in front of you with left knee bent. As you do this, hop up so that your right foot leaves the floor. Repeat this on the same side for all reps before moving to the other leg."
+  },
+  {
+    "id": 153,
+    "name": "Circuit Training - 1hour session",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 14,
+        "name": "Träningshuset",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 15,
+        "name": "AimX",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": null,
+    "assets": [
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Boot Camp Training - Level 1 ",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 14,
+        "name": "Träningshuset",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 15,
+        "name": "AimX",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": "This is the swedish version of the text\n\nStep into a BODYCOMBAT workout and you’ll punch and kick your way to fitness, burning up to 570 calories** along the way. This high-energy martial-arts inspired workout is totally non-contact and there are no complex moves to master. A LES MILLS™ instructor will challenge you to up the intensity and motivate you to make the most of every round. You’ll release stress, have a blast and feel like a champ.\nBODYCOMBAT is available as either a 55, 45 or 30-minute workout.",
+    "assets": [
+      {
+        "reference": "GroupActivity_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_025",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_025_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Anaerobic Training for Beginners",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": null,
+    "assets": [
+      {
+        "reference": "GroupActivity_054",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_054",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_054_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Compound Exercises",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 14,
+        "name": "Träningshuset",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 15,
+        "name": "AimX",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": "A compound exercise is a move that incorporates multiple muscle groups, like lunges, deadlifts, and squats. It may also refer to two moves being strung together, like a bicep curl to a shoulder press. Compound exercises are efficient for increasing overall muscle mass and burning calories (because they require more effort to complete), as opposed to isolation exercises, which focus on working just one muscle group (like a bicep curl).",
+    "assets": [
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_004",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_004_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Anaerobic Training - 2hour session",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "This is the swedish version\nBODYPUMP™ is THE ORIGINAL BARBELL CLASS™, the ideal workout for anyone looking to get lean, toned and fit – fast.\n\nUsing light to moderate weights with lots of repetition, BODYPUMP gives you a total body workout. It will burn up to 400 calories**. Instructors will coach you through the scientifically-backed moves and techniques pumping out encouragement, motivation and great music – helping you achieve much more than on your own! You’ll leave the class feeling challenged and motivated, ready to come back for more. BODYPUMP is available as either a 55, 45 or 30-minute workout.",
+    "assets": [
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_LesMills_007",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_007_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "productLabels": [
+      {
+        "id": 12,
+        "name": "Les Mills"
+      }
+    ],
+    "businessUnits": [
+      {
+        "id": 1,
+        "name": "BRP Gym Malmö",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 6,
+        "name": "BRP Gym Gothenburg",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      },
+      {
+        "id": 11,
+        "name": "X-Force",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 14,
+        "name": "Träningshuset",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      },
+      {
+        "id": 15,
+        "name": "AimX",
+        "location": "SE",
+        "companyNameForInvoice": "Demo Company"
+      }
+    ],
+    "description": "Foam rolling is a form of massage (or trigger point release) that you can do to loosen tight muscles to help improve your mobility. Using a foam roller helps smooth out “knots” in your fascia (the layer of connective tissue surrounding your muscles), which can get in the way of your range of motion. This is crucial for performing exercises with correct form and making sure the right muscle fibers are firing away. While you can stop, drop, and foam roll anytime, it’s often recommended to spend a few minutes with the foam roller before your workout to help get the juices flowing",
+    "assets": [
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_LesMills_010",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_LesMills_010_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Polymetrics Workouts - Jumping Lunges",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Start standing with your feet hip-width apart, bend your knees then jump up into the air bringing your right leg forward, and left leg goes back so that you land in a lunge position. As soon as you land with soft knees, jump back up into the air and switch legs mid air to land with the opposite leg forward. Be sure to keep your chest up.",
+    "assets": [
+      {
+        "reference": "GroupActivity_032",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_032",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_032_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Yoga - 2hr(Swedish)",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "This is the Swedish description",
+    "assets": [
+      {
+        "reference": "GroupActivity_053",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_053",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_053_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Aerobics Trainig for Beginners",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "“Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system,” explains Lefkowith. “[Energy systems] relate to how your body produces energy to fuel your workouts.” During aerobic exercise, your body uses oxygen for energy, which helps keep you moving for an extended period of time, like a long walk, run, or bike ride.",
+    "assets": [
+      {
+        "reference": "GroupActivity_035",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_035",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_035_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Dynamic Warm Up - Back Lunge To Groiner",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": " This stretch improves mobility and flexibility of your hips, ankles, thighs, and knees. This comes in handy during lower body exercises like squats, where you need your hips and ankles to be loosened up to get the full range of motion"
+  },
+  {
+    "id": 164,
+    "name": "Polymetrics Workout - 15 mins ",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Plyometric exercises are the current fitness darlings. And what makes them so effective also makes them extra brutal. That's because plyometric exercises are fast, dynamic, and explosive movements that typically cause your heart rate to skyrocket (translating to mega calories burned). Doing them will help improve your power, speed, and endurance."
+  },
+  {
+    "id": 167,
+    "name": "Dynamic Warm-Up",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "This is what you should be doing before exercise to raise your heart rate and body temperature in preparation for the workout. During this type of warm-up, you moving through stretches and light exercises without stopping (as opposed to a passive stretches, which are held in place, like you do in a cool-down). This helps increase mobility and range of motion so you can get deeper into exercises"
+  },
+  {
+    "id": 168,
+    "name": "Dynamic Warm Up -  Quad Pull With Tilt",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "You'll get mobility benefits in your knees, hips, and ankles, as well as added flexibility in your quads and hamstrings.Plus, this stretch challenges your balance, too."
+  },
+  {
+    "id": 169,
+    "name": "Aerobic Training - 2hour session ",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "“Often we call all cardio ‘aerobics,’ but aerobic is actually a specific energy system,” explains Lefkowith. “[Energy systems] relate to how your body produces energy to fuel your workouts.” During aerobic exercise, your body uses oxygen for energy, which helps keep you moving for an extended period of time, like a long walk, run, or bike ride."
+  },
+  {
+    "id": 170,
+    "name": "Functional Training Area",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "A dedicated area aimed to help improve functional strength, acceleration and endurance.",
+    "assets": [
+      {
+        "reference": "GroupActivity_033",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_033",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_033_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Zumba Workout - Advanced",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Zumba is an interval workout. The classes move between high- and low-intensity dance moves designed to get your heart rate up and boost cardio endurance.",
+    "assets": [
+      {
+        "reference": "GroupActivity_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_052",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_052_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Steady State Cardio Training - Beginner ",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Steady-state cardio refers to exercise where you aim to keep a set pace at a moderate intensity, like a long run or bike ride. This type of endurance training is especially beneficial if you’re training for a race or event.",
+    "assets": [
+      {
+        "reference": "GroupActivity_012",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_012",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_012_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Steady State Cardio Training - Intermediate",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Steady-state cardio refers to exercise where you aim to keep a set pace at a moderate intensity, like a long run or bike ride. This type of endurance training is especially beneficial if you’re training for a race or event.",
+    "assets": [
+      {
+        "reference": "GroupActivity_028",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_028",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_028_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Steady State Cardio Training - Advanced",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Steady-state cardio refers to exercise where you aim to keep a set pace at a moderate intensity, like a long run or bike ride. This type of endurance training is especially beneficial if you’re training for a race or event.",
+    "assets": [
+      {
+        "reference": "GroupActivity_075",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_075",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_075_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Strength Training - Upper Body",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Strength training means using resistance to work your muscles; that can be your bodyweight, dumbbells, kettlebells, sand bags, resistance bands, etc. The goal of this type of workout is to increase muscle mass. Getting stronger helps improve everyday performance (from sports to regular life), prevent injuries, and increase your metabolism.",
+    "assets": [
+      {
+        "reference": "GroupActivity_011",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_011",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_011_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Strength Training - Lower Body",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Strength training means using resistance to work your muscles; that can be your bodyweight, dumbbells, kettlebells, sand bags, resistance bands, etc. The goal of this type of workout is to increase muscle mass. Getting stronger helps improve everyday performance (from sports to regular life), prevent injuries, and increase your metabolism.",
+    "assets": [
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_014",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_014_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Strength Training",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Strength training means using resistance to work your muscles; that can be your bodyweight, dumbbells, kettlebells, sand bags, resistance bands, etc. The goal of this type of workout is to increase muscle mass. Getting stronger helps improve everyday performance (from sports to regular life), prevent injuries, and increase your metabolism."
+  },
+  {
+    "id": 179,
+    "name": "Tabata - Level 1 ",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Tabata is a popular high-intensity interval training protocol. It means 20 seconds of all-out effort followed by 10 seconds of rest, repeated eight times for four minutes total. It’s known for it’s insane fat-burning power",
+    "assets": [
+      {
+        "reference": "GroupActivity_003",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_003",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_003_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Tabata - Level 2",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Tabata is a popular high-intensity interval training protocol. It means 20 seconds of all-out effort followed by 10 seconds of rest, repeated eight times for four minutes total. It’s known for it’s insane fat-burning power",
+    "assets": [
+      {
+        "reference": "GroupActivity_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_031",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_031_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Tabata - Level 3",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Tabata is a popular high-intensity interval training protocol. It means 20 seconds of all-out effort followed by 10 seconds of rest, repeated eight times for four minutes total. It’s known for it’s insane fat-burning power",
+    "assets": [
+      {
+        "reference": "GroupActivity_013",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_013",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_013_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Cycling ",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Work up a sweat in this cycling class, an incredible low-impact way to burn calories and tone muscle.",
+    "assets": [
+      {
+        "reference": "GroupActivity_079",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_079",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_079_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Aerobics 1 hour",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 16,
+        "name": "Rootcode Labs Gym Colombo",
+        "location": "SE",
+        "companyNameForInvoice": "Rootcode Labs"
+      }
+    ],
+    "description": "Aerobics 1 hour session for beginners"
+  },
+  {
+    "id": 187,
+    "name": "Training session",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 24,
+        "name": "Rootcode Labs Gym Galle",
+        "location": "SE",
+        "companyNameForInvoice": "Rootcode Labs"
+      }
+    ],
+    "description": "Body attack trainnig sesion"
+  },
+  {
+    "id": 188,
+    "name": "Body attack training session",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 16,
+        "name": "Rootcode Labs Gym Colombo",
+        "location": "SE",
+        "companyNameForInvoice": "Rootcode Labs"
+      }
+    ],
+    "description": "Body attack training session for beginners"
+  },
+  {
+    "id": 189,
+    "name": "Fitness training",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 22,
+        "name": "Rootcode Labs Gym Kalmunai",
+        "location": "SE",
+        "companyNameForInvoice": "Rootcode Labs"
+      }
+    ],
+    "description": "Training for beginners"
+  },
+  {
+    "id": 196,
+    "name": "SQUASH COURTS",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Feel like a game of squash? Our on-site squash courts are available for both social and match play, so whether you're just starting out and are after a friendly game to practice or want something more competitive there's something to suit you. Contact us to book a court or ask about our in club league and tournaments.",
+    "assets": [
+      {
+        "reference": "GroupActivity_072",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_072",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_072_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ],
+    "imageBanner": {
+      "text": "Squash",
+      "backgroundColor": "#ff8f00"
+    }
+  },
+  {
+    "id": 197,
+    "name": "SAUNA",
+    "productLabels": [],
+    "businessUnits": [
+      {
+        "id": 7,
+        "name": "BRP Gym Linköping",
+        "location": "SE",
+        "companyNameForInvoice": "BRP Gym Company"
+      }
+    ],
+    "description": "Enjoy a relaxing sauna after your workout to improve circulation and aid muscle recovery. ",
+    "assets": [
+      {
+        "reference": "GroupActivity_085",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_main_s.jpg",
+        "imageWidth": 380,
+        "imageHeight": 328
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_main_m.jpg",
+        "imageWidth": 760,
+        "imageHeight": 656
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_main_l.jpg",
+        "imageWidth": 1140,
+        "imageHeight": 984
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "MAIN",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_main_xl.jpg",
+        "imageWidth": 1520,
+        "imageHeight": 1312
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_centered_s.jpg",
+        "imageWidth": 64,
+        "imageHeight": 112
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_centered_m.jpg",
+        "imageWidth": 128,
+        "imageHeight": 224
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_centered_l.jpg",
+        "imageWidth": 192,
+        "imageHeight": 336
+      },
+      {
+        "reference": "GroupActivity_085",
+        "type": "CENTERED",
+        "contentType": "image/jpg",
+        "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_085_centered_xl.jpg",
+        "imageWidth": 256,
+        "imageHeight": 448
+      }
+    ]
+  }
+]

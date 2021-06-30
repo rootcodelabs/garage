@@ -1,0 +1,34 @@
+[
+  {
+    "type":"groupActivityBooking",
+    "groupActivity":{
+      "id":3095,
+      "name":"Aerobic Training - 1hour session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "customer":{
+      "id":142,
+      "firstName":"Isuri",
+      "lastName":"Wickramasinghe"
+    },
+    "duration":{
+      "start":"2T08:30:00.000Z",
+      "end":"2T09:15:00.000Z"
+    },
+    "groupActivityBooking":{
+      "id":18433,
+      "order":{
+        "id":2563,
+        "number":"2578",
+        "externalId":null,
+        "lastModified":"-4T12:03:21.000Z"
+      }
+    },
+    "additionToEventBooking":null
+  }
+]

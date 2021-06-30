@@ -1,0 +1,960 @@
+[
+  {
+    "id": 16455,
+    "name": "Tabata - Level 3",
+    "duration": {
+      "start": "0T10:45:00.000Z",
+      "end": "0T11:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 181,
+      "name": "Tabata - Level 3"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 41,
+        "name": "Imalsha",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 5222,
+    "name": "HIIT - 30mins session",
+    "duration": {
+      "start": "0T11:00:00.000Z",
+      "end": "0T12:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 29,
+      "name": "HIIT - 30mins session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": "Stay on the waiting list",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 0,
+      "hasWaitingList": true,
+      "inWaitingList": 4
+    }
+  },
+  {
+    "id": 13283,
+    "name": "Zumba Workout - Intermediate ",
+    "duration": {
+      "start": "0T11:00:00.000Z",
+      "end": "0T12:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 105,
+      "name": "Zumba Workout - Intermediate "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      },
+      {
+        "id": 44,
+        "name": "Joey",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 0,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14168,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "0T12:00:00.000Z",
+      "end": "0T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 10420,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "0T12:00:00.000Z",
+      "end": "0T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "0T10:00:00.000Z",
+    "bookableLatest": "0T10:00:00.000Z",
+    "externalMessage": "Class cancelled due to sickness",
+    "internalMessage": null,
+    "cancelled": true,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 15551,
+    "name": "Tabata - Level 3",
+    "duration": {
+      "start": "0T12:00:00.000Z",
+      "end": "0T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 181,
+      "name": "Tabata - Level 3"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 41,
+        "name": "Imalsha",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14559,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "0T12:15:00.000Z",
+      "end": "0T13:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 42,
+        "name": "I am the instructor Isuri with a long long long name",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 13516,
+    "name": "Tabata - Level 1 ",
+    "duration": {
+      "start": "0T12:30:00.000Z",
+      "end": "06T13:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 179,
+      "name": "Tabata - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 35,
+        "name": "Outdoors"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 5870,
+    "name": "Zumba Workout - Intermediate ",
+    "duration": {
+      "start": "0T13:00:00.000Z",
+      "end": "0T14:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 105,
+      "name": "Zumba Workout - Intermediate "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 0,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17790,
+    "name": "SQUASH COURTS",
+    "duration": {
+      "start": "0T13:15:00.000Z",
+      "end": "0T16:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 196,
+      "name": "SQUASH COURTS"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 42,
+        "name": "I am the instructor Isuri with a long long long name",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 0,
+      "hasWaitingList": true,
+      "inWaitingList": 1
+    }
+  },
+  {
+    "id": 13418,
+    "name": "Tabata - Level 3",
+    "duration": {
+      "start": "0T13:45:00.000Z",
+      "end": "0T14:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 181,
+      "name": "Tabata - Level 3"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 44,
+        "name": "Joey",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 7436,
+    "name": "Boot Camp Training - Level 2",
+    "duration": {
+      "start": "0T14:00:00.000Z",
+      "end": "0T14:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 97,
+      "name": "Boot Camp Training - Level 2"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 10,
+      "totalBookable": 5,
+      "reservedForDropin": 5,
+      "leftToBook": 5,
+      "leftToBookIncDropin": 10,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17824,
+    "name": "SAUNA",
+    "duration": {
+      "start": "0T14:00:00.000Z",
+      "end": "0T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 13065,
+    "name": "Zumba Workout - Intermediate ",
+    "duration": {
+      "start": "0T14:30:00.000Z",
+      "end": "0T15:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 105,
+      "name": "Zumba Workout - Intermediate "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      },
+      {
+        "id": 41,
+        "name": "Imalsha",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": "This session contains only one booking slot. You can join for the next sessions. \nPlease sorry for the inconvenience caused.",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 6891,
+    "name": "Anaerobic Training - 1hour session",
+    "duration": {
+      "start": "0T15:00:00.000Z",
+      "end": "0T16:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 101,
+      "name": "Anaerobic Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 5,
+      "totalBookable": 0,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 5,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 13620,
+    "name": "Zumba Workout - Advanced",
+    "duration": {
+      "start": "06T15:00:00.000Z",
+      "end": "0T16:18:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 171,
+      "name": "Zumba Workout - Advanced"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 44,
+        "name": "Joey",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 10,
+      "totalBookable": 3,
+      "reservedForDropin": 7,
+      "leftToBook": 3,
+      "leftToBookIncDropin": 10,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 13804,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "0T15:30:00.000Z",
+      "end": "0T16:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 15809,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "0T16:30:00.000Z",
+      "end": "0T17:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 38,
+        "name": "Padelbana 1"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 13724,
+    "name": "Tabata - Level 3",
+    "duration": {
+      "start": "0T16:30:00.000Z",
+      "end": "0T17:15:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 181,
+      "name": "Tabata - Level 3"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [],
+    "instructors": [
+      {
+        "id": 44,
+        "name": "Joey",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 13907,
+    "name": "Strength Training",
+    "duration": {
+      "start": "0T16:45:00.000Z",
+      "end": "0T18:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 178,
+      "name": "Strength Training"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 35,
+        "name": "Outdoors"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 43,
+        "name": "Ros",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 0,
+      "totalBookable": 0,
+      "reservedForDropin": 0,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 0,
+      "hasWaitingList": false
+    }
+  },
+  {
+    "id": 10652,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "0T17:00:00.000Z",
+      "end": "0T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "0T15:00:00.000Z",
+    "bookableLatest": "0T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 13225,
+    "name": "Active Recovery with gentle Yoga",
+    "duration": {
+      "start": "0T17:45:00.000Z",
+      "end": "0T18:30:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 100,
+      "name": "Active Recovery with gentle Yoga"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": -3,
+      "reservedForDropin": 5,
+      "leftToBook": 0,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": false
+    }
+  }
+]

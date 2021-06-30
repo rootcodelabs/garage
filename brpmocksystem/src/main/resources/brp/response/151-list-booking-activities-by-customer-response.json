@@ -1,0 +1,60 @@
+[
+  {
+    "type": "groupActivityBooking",
+    "groupActivity": {
+      "id": 5227,
+      "name": "HIIT - 30mins session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "customer": {
+      "id": 151,
+      "firstName": "Moussa",
+      "lastName": "Togola"
+    },
+    "duration": {
+      "start": "0T11:00:00.000Z",
+      "end": "0T12:00:00.000Z"
+    },
+    "groupActivityBooking": {
+      "id": 18431,
+      "order": {
+        "id": 2561,
+        "number": "2576",
+        "externalId": null,
+        "lastModified": "-3T11:30:52.000Z"
+      }
+    },
+    "additionToEventBooking": null
+  },
+  {
+    "type": "waitingListBooking",
+    "groupActivity": {
+      "id": 5229,
+      "name": "HIIT - 30mins session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "customer": {
+      "id": 151,
+      "firstName": "Moussa",
+      "lastName": "Togola"
+    },
+    "duration": {
+      "start": "2T11:00:00.000Z",
+      "end": "2T12:00:00.000Z"
+    },
+    "waitingListBooking": {
+      "id": 309,
+      "waitingListPosition": 1
+    }
+  }
+]

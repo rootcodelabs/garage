@@ -1,0 +1,34 @@
+[
+  {
+    "id":16,
+    "bankAccount":{
+      "bankName":"Nordea, Personkonton",
+      "clearingNumber":"3300",
+      "accountNumber":"8903198722"
+    },
+    "customer":{
+      "id":142,
+      "firstName":"Isuri",
+      "lastName":"Wickramasinghe"
+    },
+    "company":{
+      "id":1,
+      "name":"BRP Gym Company"
+    },
+    "created":"2021-06-11T12:53:38.000Z",
+    "payerNumber":"196012038466",
+    "statuses":[
+      {
+        "level":"INFO",
+        "code":"PENDING_ADD"
+      }
+    ],
+    "validActions":[
+      "UPDATE"
+    ],
+    "otherUsers":[
+
+    ],
+    "customerHasSignedContract":true
+  }
+]

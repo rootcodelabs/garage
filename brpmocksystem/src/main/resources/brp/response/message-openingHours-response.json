@@ -1,0 +1,14 @@
+[
+  {
+    "id": 104,
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "title": "Opening Hours",
+    "body": "<p>Måndag - 6.00 - 21.00<br>\nTisdag - 6.00 - 21.00 <br>\nOnsdag - 6.00 - 21.00 <br>\nTorsdag - 6.00 - 21.00 <br>\nFredag - 6.00 - 21.00 <br>\nLördag - 6.00 - 21.00 <br>\nSöndag - 6.00 - 21.00 </p>",
+    "language": "sv"
+  }
+]

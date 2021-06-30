@@ -1,0 +1,9 @@
+[
+  {
+    "id":110,
+    "businessUnit":null,
+    "title":"Waiting List - Swedish",
+    "body":"<!DOCTYPE html>\n<html>\n<head>\n<style>\ntable {\n  font-family: arial, sans-serif;\n  border-collapse: collapse;\n  width: 100%;\n}\ntd, th {\n  border: 1px solid #DDDDDD;\n  text-align: left;\n  padding: 1px;\n}\ntr:nth-child(even) {\n  background-color: #DDDDDD;\n}\n<\u002fstyle>\n<\u002fhead>\n<body>\n<h2>HTML Table<\u002fh2>\n<table>\n  <tr>\n    <th>Day<\u002fth>\n    <th>Time<\u002fth>\n  <\u002ftr>\n  <tr>\n    <td>Monday<\u002ftd>\n    <td>6.00-21.00<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>Tuesday<\u002ftd>\n    <td>6.00-21.00<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>Wednesday<\u002ftd>\n    <td>6.00-21.00<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>Thursday<\u002ftd>\n    <td>6.00-21.00<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>Friday<\u002ftd>\n    <td>6.00-21.00<\u002ftd>\n<\u002ftable><br>\n\n<img src= \"https://images.theconversation.com/files/356044/original/file-20200902-20-1gf5wf5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip\" src=\"Gym\" ><br>\n<p>Om du ej löst ut din biljett 5 minuter före passets start och ej avbokat, får du en varning. Vid 3 varningar blir du avstängd från bokningssystemet och kan inte använda tjänsten på två veckor. Då gäller endast drop-in-plats<\u002fp>\n<\u002fbody>\n<\u002fhtml>",
+    "language":"sv"
+  }
+]

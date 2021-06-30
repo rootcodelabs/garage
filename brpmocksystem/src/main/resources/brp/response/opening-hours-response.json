@@ -1,0 +1,14 @@
+[
+  {
+    "id":103,
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "title":"Subject Line",
+    "body":"<h>This is a high-energy fitness class with moves that cater for total beginners to total addicts.<h><br>\n<img src= \"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEIGVRPbluCXfsu8pPwSYvJRN4FT20Lr9PA&usqp=CAU\" src=\"Flight suite\" >\n\n<table style=\"width:100%\">\n  <tr>\n    <th>Firstname<\u002fth>\n    <th>Lastname<\u002fth> \n    <th>Age<\u002fth>\n  <\u002ftr>\n  <tr>\n    <td>Jill<\u002ftd>\n    <td>Smith<\u002ftd>\n    <td>50<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>Eve<\u002ftd>\n    <td>Jackson<\u002ftd>\n    <td>94<\u002ftd>\n  <\u002ftr>\n  <tr>\n    <td>John<\u002ftd>\n    <td>Doe<\u002ftd>\n    <td>80<\u002ftd>\n  <\u002ftr>\n<\u002ftable>",
+    "language":"en"
+  }
+]

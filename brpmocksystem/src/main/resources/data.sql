@@ -1,0 +1,128 @@
+DROP TABLE IF EXISTS MOCK_JSON;
+ CREATE TABLE MOCK_JSON (
+  ID VARCHAR(100),
+  PAYLOAD BLOB
+ );
+insert into MOCK_JSON values
+--customer responses
+('123456workoutsum', FILE_READ('classpath:brp/response/workout-summary-response.json')),
+('151customer', FILE_READ('classpath:brp/response/151-customer-response.json')),
+('142customer', FILE_READ('classpath:brp/response/142-customer-response.json')),
+('allCustomerTypes', FILE_READ('classpath:brp/response/all-customer-types-response.json')),
+--login responses
+('10138123456login', FILE_READ('classpath:brp/response/login-response.json')),
+('rootcodelabs@example.comRw2LNU1XgANcQFUetZQUlogin', FILE_READ('classpath:brp/response/2-login-response.json')),
+('151validate', FILE_READ('classpath:brp/response/validate-response.json')),
+--appcode responses
+('999902appcode', FILE_READ('classpath:brp/response/999902-appcode-response.json')),
+('999901appcode', FILE_READ('classpath:brp/response/999901-appcode-response.json')),
+--message responses
+('appInfo', FILE_READ('classpath:brp/response/message-appInfo-response.json')),
+('bookingCancellationTerms', FILE_READ('classpath:brp/response/message-bookingCancellationTerms-response.json')),
+('bookingInformations', FILE_READ('classpath:brp/response/message-bookingInformations-response.json')),
+('bookingTerms', FILE_READ('classpath:brp/response/message-bookingTerms-response.json')),
+('disclaimer', FILE_READ('classpath:brp/response/message-disclaimer-response.json')),
+('membershipIsRequiredText', FILE_READ('classpath:brp/response/message-membershipIsRequiredText-response.json')),
+('noShowTerms', FILE_READ('classpath:brp/response/message-noShowTerms-response.json')),
+('openingHours', FILE_READ('classpath:brp/response/message-openingHours-response.json')),
+('subscriptionTerms', FILE_READ('classpath:brp/response/message-subscriptionTerms-response.json')),
+('consentMassSendEmail', FILE_READ('classpath:brp/response/message-consentmasssendemail-response.json')),
+('consentMassSendMail', FILE_READ('classpath:brp/response/message-consentmasssendMail-response.json')),
+('consentMassSendSms', FILE_READ('classpath:brp/response/message-consentmasssendsms-response.json')),
+('parentalConsentToRegister', FILE_READ('classpath:brp/response/message-parentalconsenttoregister-response.json')),
+('pensionerCertificate', FILE_READ('classpath:brp/response/message-pensionercertificate-response.json')),
+('personDetailsPolicy', FILE_READ('classpath:brp/response/message-persondetailspolicy-response.json')),
+('registrationTerms', FILE_READ('classpath:brp/response/message-registrationterms-response.json')),
+('studentCertificate', FILE_READ('classpath:brp/response/message-studentcertificate-response.json')),
+('waitingListTerms', FILE_READ('classpath:brp/response/message-waitinglistterms-response.json')),
+('youthCertificate', FILE_READ('classpath:brp/response/message-youthcertificate-response.json')),
+--list group activities responses
+('7listgrpactivities', FILE_READ('classpath:brp/response/7-list-grp-activities-by-business-unit-response.json')),
+('72listgrpactivities', FILE_READ('classpath:brp/response/72-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('7146listgrpactivities', FILE_READ('classpath:brp/response/7146-list-grp-ativities-by-b-unit-and-w-cate-response.json')),
+('7147listgrpactivities', FILE_READ('classpath:brp/response/7147-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('7148listgrpactivities', FILE_READ('classpath:brp/response/7148-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('7149listgrpactivities', FILE_READ('classpath:brp/response/7149-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71410listgrpactivities', FILE_READ('classpath:brp/response/71410-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71411listgrpactivities', FILE_READ('classpath:brp/response/71411-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71412listgrpactivities', FILE_READ('classpath:brp/response/71412-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71413listgrpactivities', FILE_READ('classpath:brp/response/71413-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71414listgrpactivities', FILE_READ('classpath:brp/response/71414-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('71415listgrpactivities', FILE_READ('classpath:brp/response/71415-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('626listgrpactivities', FILE_READ('classpath:brp/response/626-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('627listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('628listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('629listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6210listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6211listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6212listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6213listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6214listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6215listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6216listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6217listgrpactivities', FILE_READ('classpath:brp/response/627-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6218listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6219listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6220listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6221listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6222listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('6223listgrpactivities', FILE_READ('classpath:brp/response/6218-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('72812listgrpactivities', FILE_READ('classpath:brp/response/72812-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('710812listgrpactivities', FILE_READ('classpath:brp/response/710812-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('212listgrpactivities', FILE_READ('classpath:brp/response/72812-list-grp-activities-by-b-unit-and-w-cate-response.json')),
+('2listgrpactivities', FILE_READ('classpath:brp/response/2-list-grp-activities-by-web-category-response.json')),
+('listgrpactivities', FILE_READ('classpath:brp/response/list-grp-activities-response.json')),
+('43groupactivitybyproduct', FILE_READ('classpath:brp/response/group-activities-by-product-response.json')),
+('3071142grpactivitybooking', FILE_READ('classpath:brp/response/3071142-group-booking-activity-response.json')),
+('710656listgrpactivities', FILE_READ('classpath:brp/response/710656-list-grp-activities-by-b-unit-and-id-response.json')),
+--booking activities response
+('142listbookingactivities', FILE_READ('classpath:brp/response/142-list-booking-activities-by-customer-response.json')),
+('151listbookingactivities', FILE_READ('classpath:brp/response/151-list-booking-activities-by-customer-response.json')),
+--web categories response
+('getallwebcategories', FILE_READ('classpath:brp/response/web-categories-response.json')),
+('3webcategory', FILE_READ('classpath:brp/response/3-web-category-response.json')),
+--app info response
+('2appInfo', FILE_READ('classpath:brp/response/2-app-info-response.json')),
+('7bUnitAppInfo', FILE_READ('classpath:brp/response/7-app-info-for-b-unit-response.json')),
+('6bUnitAppInfo', FILE_READ('classpath:brp/response/7-app-info-for-b-unit-response.json')),
+--terms
+('7noShowTerms', FILE_READ('classpath:brp/response/no-show-terms-response.json')),
+('6noShowTerms', FILE_READ('classpath:brp/response/no-show-terms-response.json')),
+('17noShowTerms', FILE_READ('classpath:brp/response/17-no-show-terms-response.json')),
+('7waitingListTerms', FILE_READ('classpath:brp/response/waiting-list-terms-response.json')),
+('6waitingListTerms', FILE_READ('classpath:brp/response/waiting-list-terms-response.json')),
+('17waitingListTerms', FILE_READ('classpath:brp/response/17-waiting-list-terms-response.json')),
+('7bookingCancellationTerms', FILE_READ('classpath:brp/response/booking-cancellation-terms-response.json')),
+('6bookingCancellationTerms', FILE_READ('classpath:brp/response/booking-cancellation-terms-response.json')),
+('17bookingCancellationTerms', FILE_READ('classpath:brp/response/17-booking-cancellation-terms-response.json')),
+('7bookingTerms', FILE_READ('classpath:brp/response/booking-terms-response.json')),
+('6bookingTerms', FILE_READ('classpath:brp/response/booking-terms-response.json')),
+('17bookingTerms', FILE_READ('classpath:brp/response/17-booking-terms-response.json')),
+('allBookingTerms', FILE_READ('classpath:brp/response/all-booking-terms-response.json')),
+('17bUnitAppInfo', FILE_READ('classpath:brp/response/17-business-unit-app-info-response.json')),
+('17openingHours', FILE_READ('classpath:brp/response/17-opening-hours-response.json')),
+('7openingHours', FILE_READ('classpath:brp/response/opening-hours-response.json')),
+--business units
+('allbusinessunits', FILE_READ('classpath:brp/response/all-business-units-response.json')),
+--bookings
+('151customerBookingServices', FILE_READ('classpath:brp/response/151-customer-booking-services-response.json')),
+--subscriptions
+('731subscriptions', FILE_READ('classpath:brp/response/731-subscriptions-response.json')),
+('732subscriptions', FILE_READ('classpath:brp/response/732-subscriptions-response.json')),
+('735subscriptions', FILE_READ('classpath:brp/response/735-subscriptions-response.json')),
+('1522subscriptionAdditions', FILE_READ('classpath:brp/response/1522-subscription-additions-response.json')),
+('1922subscriptionAdditions', FILE_READ('classpath:brp/response/1922-subscription-additions-response.json')),
+--consent type
+('7consenttypes', FILE_READ('classpath:brp/response/7-consent-types-response.json')),
+--errors
+--message errors
+('errorformessagetype', FILE_READ('classpath:brp/errormessages/message-type-error.json')),
+('errorforbusinessunit', FILE_READ('classpath:brp/errormessages/business-unit-error.json')),
+--group activity booking errors
+('29151grpactivitybookingerror', FILE_READ('classpath:brp/errormessages/29151-group-activity-booking-error.json')),
+('180151grpactivitybookingerror', FILE_READ('classpath:brp/errormessages/180151-group-activity-booking-error.json')),
+('181151grpactivitybookingerror', FILE_READ('classpath:brp/errormessages/181151-group-activity-booking-error.json')),
+('77151grpactivitybookingerror', FILE_READ('classpath:brp/errormessages/77151-group-activity-booking-error.json')),
+--terms errors
+('termsbuniterror', FILE_READ('classpath:brp/errormessages/terms-b-unit-error.json'))
+;
