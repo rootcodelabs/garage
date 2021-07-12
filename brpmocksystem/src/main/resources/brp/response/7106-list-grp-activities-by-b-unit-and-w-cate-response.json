@@ -1,0 +1,362 @@
+[
+  {
+    "id":5235,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"0T12:00:00.000Z",
+      "end":"0T13:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":0,
+      "leftToBookIncDropin":0,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5236,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"1T11:00:00.000Z",
+      "end":"1T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":0,
+      "leftToBookIncDropin":0,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5237,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"4T11:00:00.000Z",
+      "end":"4T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5239,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"6T11:00:00.000Z",
+      "end":"6T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5240,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"7T11:00:00.000Z",
+      "end":"7T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5241,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"8T11:00:00.000Z",
+      "end":"8T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5242,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"11T11:00:00.000Z",
+      "end":"11T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  },
+  {
+    "id":5244,
+    "name":"HIIT - 30mins session",
+    "duration":{
+      "start":"13T11:00:00.000Z",
+      "end":"13T12:00:00.000Z"
+    },
+    "groupActivityProduct":{
+      "id":29,
+      "name":"HIIT - 30mins session"
+    },
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"NO",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "locations":[
+      {
+        "id":18,
+        "name":"Large spinning room"
+      }
+    ],
+    "instructors":[
+      {
+        "id":16,
+        "name":"Monica",
+        "isSubstitute":false
+      }
+    ],
+    "bookableEarliest":null,
+    "bookableLatest":null,
+    "externalMessage":null,
+    "internalMessage":null,
+    "cancelled":false,
+    "slots":{
+      "total":1,
+      "totalBookable":1,
+      "reservedForDropin":0,
+      "leftToBook":1,
+      "leftToBookIncDropin":1,
+      "hasWaitingList":true,
+      "inWaitingList":0
+    }
+  }
+]

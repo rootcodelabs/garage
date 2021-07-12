@@ -11,6 +11,7 @@ import org.json.simple.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
 import java.util.List;
 import java.util.logging.Logger;
 
@@ -55,10 +56,38 @@ public class CustomerServiceImpl implements CustomerService {
             }
         }
         List<MockJson> jsonEntity = mockJsonRepository.findById(groupId + String.valueOf(customerId) + "grpactivitybooking");
+        List<MockJson> jsonEntityToUpdate = mockJsonRepository.findById(customerId + "listbookingactivities");
+
+        JSONArray arrToUpdate = null;
+        for(MockJson entity:jsonEntityToUpdate) {
+            arrToUpdate = jsonParserClient.getJsonArray(entity.getPayload());
+        }
+
         JSONObject obj = null;
         for(MockJson entity:jsonEntity) {
             obj = jsonParserClient.getJsonObject(entity.getPayload());
+            arrToUpdate.add(obj);
         }
+
+        MockJson mockJson = new MockJson();
+        mockJson.setId(jsonEntityToUpdate.get(0).getId());
+        mockJson.setPayload(arrToUpdate.toJSONString());
+        mockJsonRepository.save(mockJson);
+
+        Object duration = obj.get("duration");
+
+        String startDateTimeFactor = duration.toString().substring(duration.toString().indexOf("start")+8,duration.toString().indexOf("end") -3);
+        String startTimeFactor = startDateTimeFactor.toString().substring(startDateTimeFactor.indexOf("T")+1);
+        String endDateTimeFactor = duration.toString().substring(duration.toString().indexOf("end")+6,duration.toString().length() -2);
+        String endTimeFactor = endDateTimeFactor.toString().substring(endDateTimeFactor.indexOf("T")+1);
+
+        LocalDate startDate = LocalDate.now().plusDays(Long.parseLong(startDateTimeFactor.substring(0,startDateTimeFactor.indexOf("T"))));
+        LocalDate endDate = LocalDate.now().plusDays(Long.parseLong(endDateTimeFactor.substring(0,endDateTimeFactor.indexOf("T"))));
+
+        JSONObject newJson = new JSONObject();
+        newJson.put("start", startDate.toString()+"T"+startTimeFactor);
+        newJson.put("end", endDate.toString()+"T"+endTimeFactor);
+        obj.put("duration", newJson);
         return obj;
     }
 }

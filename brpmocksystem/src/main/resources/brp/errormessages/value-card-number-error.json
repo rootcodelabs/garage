@@ -1,0 +1,9 @@
+{
+  "errorCode":"INVALID_INPUT",
+  "fieldErrors":[
+    {
+      "field":"valueCardNumber",
+      "errorCode":"ID_NOT_FOUND"
+    }
+  ]
+}

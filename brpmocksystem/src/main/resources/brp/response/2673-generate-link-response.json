@@ -1,0 +1,3 @@
+{
+  "url": "http://127.0.0.1:8080/payment/klarna/payfororder?orderid=2673&returnurl=http%3A%2F%2F127.0.0.1%3A8080%2Fpaymentresult&paymentmethodid=26&hash=44eccdebed94b1a352ae6fcc4934f430ccde42c959f3dce4afaaacea898b0d54"
+}

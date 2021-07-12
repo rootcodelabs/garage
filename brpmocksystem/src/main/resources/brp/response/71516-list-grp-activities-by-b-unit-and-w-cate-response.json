@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 10670,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "0T17:00:00.000Z",
+      "end": "0T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "0T15:00:00.000Z",
+    "bookableLatest": "0T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10140,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "1T08:00:00.000Z",
+      "end": "1T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "1T06:00:00.000Z",
+    "bookableLatest": "1T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14091,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "1T11:00:00.000Z",
+      "end": "1T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "1T09:00:00.000Z",
+    "bookableLatest": "1T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17843,
+    "name": "SAUNA",
+    "duration": {
+      "start": "1T14:00:00.000Z",
+      "end": "1T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10141,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "2T08:00:00.000Z",
+      "end": "2T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "2T06:00:00.000Z",
+    "bookableLatest": "2T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14092,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "2T11:00:00.000Z",
+      "end": "2T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "2T09:00:00.000Z",
+    "bookableLatest": "2T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17844,
+    "name": "SAUNA",
+    "duration": {
+      "start": "2T14:00:00.000Z",
+      "end": "2T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10142,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "3T08:00:00.000Z",
+      "end": "3T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "3T06:00:00.000Z",
+    "bookableLatest": "3T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10432,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "3T12:00:00.000Z",
+      "end": "3T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "3T10:00:00.000Z",
+    "bookableLatest": "3T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17845,
+    "name": "SAUNA",
+    "duration": {
+      "start": "3T14:00:00.000Z",
+      "end": "3T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10673,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "3T17:00:00.000Z",
+      "end": "3T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "3T15:00:00.000Z",
+    "bookableLatest": "3T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10143,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "4T08:00:00.000Z",
+      "end": "4T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "4T06:00:00.000Z",
+    "bookableLatest": "4T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14094,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "4T11:00:00.000Z",
+      "end": "4T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "4T09:00:00.000Z",
+    "bookableLatest": "4T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17846,
+    "name": "SAUNA",
+    "duration": {
+      "start": "4T14:00:00.000Z",
+      "end": "4T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10674,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "4T17:00:00.000Z",
+      "end": "4T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "4T15:00:00.000Z",
+    "bookableLatest": "4T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10144,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "5T08:00:00.000Z",
+      "end": "5T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "5T06:00:00.000Z",
+    "bookableLatest": "5T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10433,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "5T12:00:00.000Z",
+      "end": "5T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "5T10:00:00.000Z",
+    "bookableLatest": "5T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17847,
+    "name": "SAUNA",
+    "duration": {
+      "start": "5T14:00:00.000Z",
+      "end": "5T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10675,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "5T17:00:00.000Z",
+      "end": "5T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "5T15:00:00.000Z",
+    "bookableLatest": "5T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10145,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "6T08:00:00.000Z",
+      "end": "6T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "6T06:00:00.000Z",
+    "bookableLatest": "6T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10434,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "6T12:00:00.000Z",
+      "end": "6T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "6T10:00:00.000Z",
+    "bookableLatest": "6T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17848,
+    "name": "SAUNA",
+    "duration": {
+      "start": "6T14:00:00.000Z",
+      "end": "6T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10676,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "6T17:00:00.000Z",
+      "end": "6T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "6T15:00:00.000Z",
+    "bookableLatest": "6T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10146,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "7T08:00:00.000Z",
+      "end": "7T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "7T06:00:00.000Z",
+    "bookableLatest": "7T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10435,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "7T12:00:00.000Z",
+      "end": "7T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "7T10:00:00.000Z",
+    "bookableLatest": "7T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17849,
+    "name": "SAUNA",
+    "duration": {
+      "start": "7T14:00:00.000Z",
+      "end": "7T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10677,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "7T17:00:00.000Z",
+      "end": "7T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "7T15:00:00.000Z",
+    "bookableLatest": "7T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10147,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "8T08:00:00.000Z",
+      "end": "8T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "8T06:00:00.000Z",
+    "bookableLatest": "8T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14098,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "8T11:00:00.000Z",
+      "end": "8T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "8T09:00:00.000Z",
+    "bookableLatest": "8T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17850,
+    "name": "SAUNA",
+    "duration": {
+      "start": "8T14:00:00.000Z",
+      "end": "8T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10148,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "9T08:00:00.000Z",
+      "end": "9T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "9T06:00:00.000Z",
+    "bookableLatest": "9T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14099,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "9T11:00:00.000Z",
+      "end": "9T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "9T09:00:00.000Z",
+    "bookableLatest": "9T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17851,
+    "name": "SAUNA",
+    "duration": {
+      "start": "9T14:00:00.000Z",
+      "end": "9T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10149,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "10T08:00:00.000Z",
+      "end": "10T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "10T06:00:00.000Z",
+    "bookableLatest": "10T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10436,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "10T12:00:00.000Z",
+      "end": "10T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "10T10:00:00.000Z",
+    "bookableLatest": "10T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17852,
+    "name": "SAUNA",
+    "duration": {
+      "start": "10T14:00:00.000Z",
+      "end": "10T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10680,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "10T17:00:00.000Z",
+      "end": "10T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "10T15:00:00.000Z",
+    "bookableLatest": "10T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10150,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "11T08:00:00.000Z",
+      "end": "11T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "11T06:00:00.000Z",
+    "bookableLatest": "11T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 14101,
+    "name": "FOAM ROLLING - 30MINS SESSION",
+    "duration": {
+      "start": "11T11:00:00.000Z",
+      "end": "11T11:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 158,
+      "name": "FOAM ROLLING - 30MINS SESSION"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 36,
+        "name": "Johan",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "11T09:00:00.000Z",
+    "bookableLatest": "11T09:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17853,
+    "name": "SAUNA",
+    "duration": {
+      "start": "11T14:00:00.000Z",
+      "end": "11T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10681,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "11T17:00:00.000Z",
+      "end": "11T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "11T15:00:00.000Z",
+    "bookableLatest": "11T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10151,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "12T08:00:00.000Z",
+      "end": "12T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "12T06:00:00.000Z",
+    "bookableLatest": "12T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10437,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "12T12:00:00.000Z",
+      "end": "12T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "12T10:00:00.000Z",
+    "bookableLatest": "12T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17854,
+    "name": "SAUNA",
+    "duration": {
+      "start": "12T14:00:00.000Z",
+      "end": "12T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10682,
+    "name": "Anaerobic Training for Beginners",
+    "duration": {
+      "start": "12T17:00:00.000Z",
+      "end": "12T17:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 155,
+      "name": "Anaerobic Training for Beginners"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "12T15:00:00.000Z",
+    "bookableLatest": "12T15:00:00.000Z",
+    "externalMessage": "During the pandemic this class is outdoors",
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 30,
+      "reservedForDropin": 0,
+      "leftToBook": 30,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10152,
+    "name": "Circuit Training - 1hour session",
+    "duration": {
+      "start": "13T08:00:00.000Z",
+      "end": "13T08:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 153,
+      "name": "Circuit Training - 1hour session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "13T06:00:00.000Z",
+    "bookableLatest": "13T06:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 10438,
+    "name": "Boot Camp Training - Level 1 ",
+    "duration": {
+      "start": "13T12:00:00.000Z",
+      "end": "13T12:45:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 154,
+      "name": "Boot Camp Training - Level 1 "
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 33,
+        "name": "Room 1 (L)"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 15,
+        "name": "Jacob (L)",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": "13T10:00:00.000Z",
+    "bookableLatest": "13T10:00:00.000Z",
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 30,
+      "totalBookable": 1,
+      "reservedForDropin": 29,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 30,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 17855,
+    "name": "SAUNA",
+    "duration": {
+      "start": "13T14:00:00.000Z",
+      "end": "13T15:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 197,
+      "name": "SAUNA"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 34,
+        "name": "Small room Linköping"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 45,
+        "name": "Jaanu",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 2,
+      "totalBookable": 1,
+      "reservedForDropin": 1,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 2,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  }
+]

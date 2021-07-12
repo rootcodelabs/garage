@@ -1,96 +1,6 @@
 [
   {
-    "id": 5222,
-    "name": "HIIT - 30mins session",
-    "duration": {
-      "start": "0T11:00:00.000Z",
-      "end": "0T12:00:00.000Z"
-    },
-    "groupActivityProduct": {
-      "id": 29,
-      "name": "HIIT - 30mins session"
-    },
-    "businessUnit": {
-      "id": 7,
-      "name": "BRP Gym Linköping",
-      "location": "SE",
-      "companyNameForInvoice": "BRP Gym Company"
-    },
-    "locations": [
-      {
-        "id": 18,
-        "name": "Large spinning room"
-      }
-    ],
-    "instructors": [
-      {
-        "id": 16,
-        "name": "Monica",
-        "isSubstitute": false
-      }
-    ],
-    "bookableEarliest": null,
-    "bookableLatest": null,
-    "externalMessage": "Stay on the waiting list",
-    "internalMessage": null,
-    "cancelled": false,
-    "slots": {
-      "total": 1,
-      "totalBookable": 1,
-      "reservedForDropin": 0,
-      "leftToBook": 0,
-      "leftToBookIncDropin": 0,
-      "hasWaitingList": true,
-      "inWaitingList": 4
-    }
-  },
-  {
-    "id": 5224,
-    "name": "HIIT - 30mins session",
-    "duration": {
-      "start": "2T11:00:00.000Z",
-      "end": "2T12:00:00.000Z"
-    },
-    "groupActivityProduct": {
-      "id": 29,
-      "name": "HIIT - 30mins session"
-    },
-    "businessUnit": {
-      "id": 7,
-      "name": "BRP Gym Linköping",
-      "location": "SE",
-      "companyNameForInvoice": "BRP Gym Company"
-    },
-    "locations": [
-      {
-        "id": 18,
-        "name": "Large spinning room"
-      }
-    ],
-    "instructors": [
-      {
-        "id": 16,
-        "name": "Monica",
-        "isSubstitute": false
-      }
-    ],
-    "bookableEarliest": null,
-    "bookableLatest": null,
-    "externalMessage": null,
-    "internalMessage": null,
-    "cancelled": false,
-    "slots": {
-      "total": 1,
-      "totalBookable": 1,
-      "reservedForDropin": 0,
-      "leftToBook": 0,
-      "leftToBookIncDropin": 0,
-      "hasWaitingList": true,
-      "inWaitingList": 0
-    }
-  },
-  {
-    "id": 5225,
+    "id": 5237,
     "name": "HIIT - 30mins session",
     "duration": {
       "start": "3T11:00:00.000Z",
@@ -135,11 +45,11 @@
     }
   },
   {
-    "id": 5226,
+    "id": 5239,
     "name": "HIIT - 30mins session",
     "duration": {
-      "start": "4T11:00:00.000Z",
-      "end": "4T12:00:00.000Z"
+      "start": "5T11:00:00.000Z",
+      "end": "5T12:00:00.000Z"
     },
     "groupActivityProduct": {
       "id": 29,
@@ -180,7 +90,52 @@
     }
   },
   {
-    "id": 5227,
+    "id": 5240,
+    "name": "HIIT - 30mins session",
+    "duration": {
+      "start": "6T11:00:00.000Z",
+      "end": "6T12:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 29,
+      "name": "HIIT - 30mins session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 5241,
     "name": "HIIT - 30mins session",
     "duration": {
       "start": "7T11:00:00.000Z",
@@ -225,52 +180,7 @@
     }
   },
   {
-    "id": 5229,
-    "name": "HIIT - 30mins session",
-    "duration": {
-      "start": "9T11:00:00.000Z",
-      "end": "9T12:00:00.000Z"
-    },
-    "groupActivityProduct": {
-      "id": 29,
-      "name": "HIIT - 30mins session"
-    },
-    "businessUnit": {
-      "id": 7,
-      "name": "BRP Gym Linköping",
-      "location": "SE",
-      "companyNameForInvoice": "BRP Gym Company"
-    },
-    "locations": [
-      {
-        "id": 18,
-        "name": "Large spinning room"
-      }
-    ],
-    "instructors": [
-      {
-        "id": 16,
-        "name": "Monica",
-        "isSubstitute": false
-      }
-    ],
-    "bookableEarliest": null,
-    "bookableLatest": null,
-    "externalMessage": null,
-    "internalMessage": null,
-    "cancelled": false,
-    "slots": {
-      "total": 1,
-      "totalBookable": 1,
-      "reservedForDropin": 0,
-      "leftToBook": 1,
-      "leftToBookIncDropin": 1,
-      "hasWaitingList": true,
-      "inWaitingList": 0
-    }
-  },
-  {
-    "id": 5230,
+    "id": 5242,
     "name": "HIIT - 30mins session",
     "duration": {
       "start": "10T11:00:00.000Z",
@@ -315,11 +225,56 @@
     }
   },
   {
-    "id": 5231,
+    "id": 5244,
     "name": "HIIT - 30mins session",
     "duration": {
-      "start": "11T11:00:00.000Z",
-      "end": "11T12:00:00.000Z"
+      "start": "12T11:00:00.000Z",
+      "end": "12T12:00:00.000Z"
+    },
+    "groupActivityProduct": {
+      "id": 29,
+      "name": "HIIT - 30mins session"
+    },
+    "businessUnit": {
+      "id": 7,
+      "name": "BRP Gym Linköping",
+      "location": "SE",
+      "companyNameForInvoice": "BRP Gym Company"
+    },
+    "locations": [
+      {
+        "id": 18,
+        "name": "Large spinning room"
+      }
+    ],
+    "instructors": [
+      {
+        "id": 16,
+        "name": "Monica",
+        "isSubstitute": false
+      }
+    ],
+    "bookableEarliest": null,
+    "bookableLatest": null,
+    "externalMessage": null,
+    "internalMessage": null,
+    "cancelled": false,
+    "slots": {
+      "total": 1,
+      "totalBookable": 1,
+      "reservedForDropin": 0,
+      "leftToBook": 1,
+      "leftToBookIncDropin": 1,
+      "hasWaitingList": true,
+      "inWaitingList": 0
+    }
+  },
+  {
+    "id": 5245,
+    "name": "HIIT - 30mins session",
+    "duration": {
+      "start": "13T11:00:00.000Z",
+      "end": "13T12:00:00.000Z"
     },
     "groupActivityProduct": {
       "id": 29,

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 4,
+    "name": "massSendPush",
+    "type": "PUSH",
+    "title": "Pushnotiser",
+    "canBeGivenInAPI": true,
+    "canBeTakenBackInAPI": true
+  }
+]

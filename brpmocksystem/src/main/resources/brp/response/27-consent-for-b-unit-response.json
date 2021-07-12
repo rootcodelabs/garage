@@ -1,0 +1,22 @@
+[
+  {
+    "id":2,
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "title":"Email Consent",
+    "body":"Email Consent\nThis is the sample html for email consent",
+    "language":null,
+    "type":{
+      "id":2,
+      "name":"Mass sending of email",
+      "type":"EMAIL",
+      "title":"Email Consent",
+      "canBeGivenInAPI":true,
+      "canBeTakenBackInAPI":true
+    }
+  }
+]

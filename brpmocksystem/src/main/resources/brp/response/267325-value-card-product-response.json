@@ -1,0 +1,117 @@
+{
+  "id":2673,
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "number":2811,
+  "created":"0T06:11:00.000Z",
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "customerType":{
+    "id":1,
+    "name":"Regular pricelist"
+  },
+  "preliminary":true,
+  "subscriptionItems":[
+    {
+      "id":18963,
+      "price":{
+        "amount":150000,
+        "currency":"SEK"
+      },
+      "quantity":1,
+      "product":{
+        "id":192,
+        "name":"Premium and All-Access"
+      },
+      "externalMessage":null,
+      "initialPaymentPeriod":{
+        "start":"2038-09-04",
+        "end":"2039-09-03"
+      },
+      "subscription":{
+        "id":610,
+        "name":"Premium and All-Access"
+      },
+      "payRecurring":{
+        "interval":{
+          "numberOf":1,
+          "unit":"YEAR"
+        },
+        "price":{
+          "amount":150000,
+          "currency":"SEK"
+        }
+      },
+      "boundUntil":"2037-09-03"
+    }
+  ],
+  "articleItems":[
+
+  ],
+  "valueCardItems":[
+    {
+      "id":18964,
+      "price":{
+        "amount":130000,
+        "currency":"SEK"
+      },
+      "quantity":1,
+      "product":{
+        "id":25,
+        "name":"10 x training"
+      },
+      "externalMessage":null,
+      "receiverTarget":"rootcodelabs@example.com",
+      "validUntil":"2022-07-02"
+    }
+  ],
+  "eventItems":[
+
+  ],
+  "serviceItems":[
+
+  ],
+  "entryItems":[
+
+  ],
+  "price":{
+    "amount":280000,
+    "currency":"SEK"
+  },
+  "leftToPay":{
+    "amount":280000,
+    "currency":"SEK"
+  },
+  "couponDiscount":{
+    "amount":0,
+    "currency":"SEK"
+  },
+  "vatSums":[
+    {
+      "rate":"6",
+      "amount":{
+        "amount":15849,
+        "currency":"SEK"
+      }
+    }
+  ],
+  "externalNote":null,
+  "disclaimer":"NONE",
+  "receiverTarget":"rootcodelabs@example.com",
+  "orderStatus":{
+    "id":1,
+    "name":"Created"
+  },
+  "lastModified":"0T06:11:41.000Z",
+  "totalCost":{
+    "amount":355000,
+    "currency":"SEK"
+  }
+}

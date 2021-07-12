@@ -1,0 +1,80 @@
+{
+  "id":2673,
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"NO",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "number":2825,
+  "created":"2021-07-02T09:31:00.000Z",
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "customerType":{
+    "id":1,
+    "name":"Regular pricelist"
+  },
+  "preliminary":true,
+  "subscriptionItems":[
+
+  ],
+  "articleItems":[
+    {
+      "id":18996,
+      "price":{
+        "amount":180000,
+        "currency":"NOK"
+      },
+      "quantity":4,
+      "product":{
+        "id":30,
+        "name":"Yoga mat"
+      },
+      "externalMessage":null
+    }
+  ],
+  "valueCardItems":[
+
+  ],
+  "eventItems":[
+
+  ],
+  "serviceItems":[
+
+  ],
+  "entryItems":[
+
+  ],
+  "price":{
+    "amount":180000,
+    "currency":"NOK"
+  },
+  "leftToPay":{
+    "amount":180000,
+    "currency":"NOK"
+  },
+  "couponDiscount":{
+    "amount":0,
+    "currency":"NOK"
+  },
+  "vatSums":[
+    {
+      "rate":"25",
+      "amount":{
+        "amount":36000,
+        "currency":"NOK"
+      }
+    }
+  ],
+  "externalNote":null,
+  "disclaimer":"NONE",
+  "receiverTarget":"rootcodelabs@example.com",
+  "orderStatus":{
+    "id":1,
+    "name":"Created"
+  },
+  "lastModified":"2021-07-02T09:31:18.000Z"
+}

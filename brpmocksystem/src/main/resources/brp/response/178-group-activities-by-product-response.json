@@ -1,0 +1,16 @@
+{
+  "id":178,
+  "name":"Strength Training",
+  "productLabels":[
+
+  ],
+  "businessUnits":[
+    {
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    }
+  ],
+  "description":"Strength training means using resistance to work your muscles; that can be your bodyweight, dumbbells, kettlebells, sand bags, resistance bands, etc. The goal of this type of workout is to increase muscle mass. Getting stronger helps improve everyday performance (from sports to regular life), prevent injuries, and increase your metabolism."
+}

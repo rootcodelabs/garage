@@ -1,0 +1,26 @@
+{
+  "type":"waitingListBooking",
+  "groupActivity":{
+    "id":13925,
+    "name":"Strength Training"
+  },
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "duration":{
+    "start":"0T16:45:00.000Z",
+    "end":"0T18:45:00.000Z"
+  },
+  "waitingListBooking":{
+    "id":330,
+    "waitingListPosition":1
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "businessUnit":null,
+    "title":"Pushnotiser",
+    "body":"Jag samtycker till att appens utgivare skickar mig push-notiser för att hjälpa mig med träningen och informera om de tjänster som levereras.",
+    "language":"sv",
+    "type":{
+      "id":4,
+      "name":"massSendPush",
+      "type":"PUSH",
+      "title":"Pushnotiser",
+      "canBeGivenInAPI":true,
+      "canBeTakenBackInAPI":true
+    }
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "id":2673,
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "number":2688,
+  "created":"0T04:37:00.000Z",
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "customerType":{
+    "id":1,
+    "name":"Regular pricelist"
+  },
+  "preliminary":true,
+  "subscriptionItems":[
+    {
+      "id":18729,
+      "price":{
+        "amount":150000,
+        "currency":"SEK"
+      },
+      "quantity":1,
+      "product":{
+        "id":192,
+        "name":"Premium and All-Access"
+      },
+      "externalMessage":null,
+      "initialPaymentPeriod":{
+        "start":"2036-03-04",
+        "end":"2037-03-03"
+      },
+      "subscription":{
+        "id":583,
+        "name":"Premium and All-Access"
+      },
+      "payRecurring":{
+        "interval":{
+          "numberOf":1,
+          "unit":"YEAR"
+        },
+        "price":{
+          "amount":150000,
+          "currency":"SEK"
+        }
+      },
+      "boundUntil":"2037-09-03"
+    }
+  ],
+  "articleItems":[
+    {
+      "id":18730,
+      "price":{
+        "amount":50000,
+        "currency":"SEK"
+      },
+      "quantity":1,
+      "product":{
+        "id":30,
+        "name":"Yoga mat"
+      },
+      "externalMessage":null
+    }
+  ],
+  "valueCardItems":[
+
+  ],
+  "eventItems":[
+
+  ],
+  "serviceItems":[
+
+  ],
+  "entryItems":[
+
+  ],
+  "price":{
+    "amount":200000,
+    "currency":"SEK"
+  },
+  "leftToPay":{
+    "amount":200000,
+    "currency":"SEK"
+  },
+  "couponDiscount":{
+    "amount":0,
+    "currency":"SEK"
+  },
+  "vatSums":[
+    {
+      "rate":"6",
+      "amount":{
+        "amount":8491,
+        "currency":"SEK"
+      }
+    },
+    {
+      "rate":"25",
+      "amount":{
+        "amount":10000,
+        "currency":"SEK"
+      }
+    }
+  ],
+  "externalNote":null,
+  "disclaimer":"NONE",
+  "receiverTarget":"rootcodelabs@example.com",
+  "orderStatus":{
+    "id":1,
+    "name":"Created"
+  },
+  "lastModified":"0T04:37:29.000Z",
+  "totalCost":{
+    "amount":275000,
+    "currency":"SEK"
+  }
+}

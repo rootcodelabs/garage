@@ -1,0 +1,117 @@
+{
+  "id":2673,
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"NO",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "number":2816,
+  "created":"0T06:42:00.000Z",
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "customerType":{
+    "id":1,
+    "name":"Regular pricelist"
+  },
+  "preliminary":true,
+  "subscriptionItems":[
+    {
+      "id":18978,
+      "price":{
+        "amount":150000,
+        "currency":"NOK"
+      },
+      "quantity":1,
+      "product":{
+        "id":192,
+        "name":"Premium and All-Access"
+      },
+      "externalMessage":null,
+      "initialPaymentPeriod":{
+        "start":"2038-09-04",
+        "end":"2039-09-03"
+      },
+      "subscription":{
+        "id":610,
+        "name":"Premium and All-Access"
+      },
+      "payRecurring":{
+        "interval":{
+          "numberOf":1,
+          "unit":"YEAR"
+        },
+        "price":{
+          "amount":150000,
+          "currency":"NOK"
+        }
+      },
+      "boundUntil":"2037-09-03"
+    }
+  ],
+  "articleItems":[
+
+  ],
+  "valueCardItems":[
+    {
+      "id":18979,
+      "price":{
+        "amount":80000,
+        "currency":"NOK"
+      },
+      "quantity":1,
+      "product":{
+        "id":59,
+        "name":"Gift card"
+      },
+      "externalMessage":null,
+      "receiverTarget":"rootcodelabs@example.com",
+      "validUntil":"2022-07-02"
+    }
+  ],
+  "eventItems":[
+
+  ],
+  "serviceItems":[
+
+  ],
+  "entryItems":[
+
+  ],
+  "price":{
+    "amount":230000,
+    "currency":"NOK"
+  },
+  "leftToPay":{
+    "amount":230000,
+    "currency":"NOK"
+  },
+  "couponDiscount":{
+    "amount":0,
+    "currency":"NOK"
+  },
+  "vatSums":[
+    {
+      "rate":"6",
+      "amount":{
+        "amount":8491,
+        "currency":"NOK"
+      }
+    }
+  ],
+  "externalNote":null,
+  "disclaimer":"NONE",
+  "receiverTarget":"rootcodelabs@example.com",
+  "orderStatus":{
+    "id":1,
+    "name":"Created"
+  },
+  "lastModified":"02T06:42:58.000Z",
+  "totalCost":{
+    "amount":305000,
+    "currency":"NOK"
+  }
+}

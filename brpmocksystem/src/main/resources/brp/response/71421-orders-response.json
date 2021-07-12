@@ -1,0 +1,61 @@
+{
+  "id":2673,
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "number":2688,
+  "created":"0T04:37:00.000Z",
+  "customer":{
+    "id":142,
+    "firstName":"Isuri",
+    "lastName":"Wickramasinghe"
+  },
+  "customerType":{
+    "id":1,
+    "name":"Regular pricelist"
+  },
+  "preliminary":true,
+  "subscriptionItems":[
+
+  ],
+  "articleItems":[
+
+  ],
+  "valueCardItems":[
+
+  ],
+  "eventItems":[
+
+  ],
+  "serviceItems":[
+
+  ],
+  "entryItems":[
+
+  ],
+  "price":{
+    "amount":0,
+    "currency":"SEK"
+  },
+  "leftToPay":{
+    "amount":0,
+    "currency":"SEK"
+  },
+  "couponDiscount":{
+    "amount":0,
+    "currency":"SEK"
+  },
+  "vatSums":[
+
+  ],
+  "externalNote":null,
+  "disclaimer":"NONE",
+  "receiverTarget":"rootcodelabs@example.com",
+  "orderStatus":{
+    "id":1,
+    "name":"Created"
+  }
+}

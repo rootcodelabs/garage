@@ -6,13 +6,12 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
+import javax.annotation.processing.SupportedOptions;
 import java.time.LocalTime;
 import java.util.Date;
 import java.util.logging.Logger;
@@ -54,5 +53,7 @@ public class GroupActivityController {
         logger.info("List group actitvity by business unit and id api is running:");
         return ResponseEntity.ok(groupActivityService.getGroupActivitiesJsonObj(selectedBusinessUnit+ String.valueOf(id)+"listgrpactivities"));
     }
+
+
 
 }

@@ -1,0 +1,9 @@
+{
+  "errorCode":"INVALID_INPUT",
+  "fieldErrors":[
+    {
+      "field":"couponName",
+      "errorCode":"ID_NOT_FOUND"
+    }
+  ]
+}

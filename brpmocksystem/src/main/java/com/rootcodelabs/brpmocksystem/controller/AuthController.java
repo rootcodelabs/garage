@@ -36,16 +36,19 @@ public class AuthController {
     LoginService loginService;
 
     @PostMapping("/auth/login")
-    public ResponseEntity<JSONObject> getAccessKey(@Valid  @RequestBody LoginInfo loginInfo) throws Exception{
+    public ResponseEntity<JSONObject> getAccessKey(@Valid  @RequestBody JSONObject jsonObject) throws Exception{
 
-         return ResponseEntity.ok(loginService.getJsonObjForLogin(loginInfo.getUsername()+loginInfo.getPassword()+"login"));
+         return ResponseEntity.ok(loginService.getJsonObjForLogin(jsonObject.get("username").toString()+jsonObject.get("password").toString()+"login"));
 
     }
 
     @PostMapping("/auth/validate")
     public ResponseEntity<JSONObject> validateKey(@Valid @RequestHeader("Authorization") String jwt) throws Exception{
         logger.info("Validate key api is running:");
-        return ResponseEntity.ok(mockSystemService.getJsonObj(validateUser));
+        String withoutBearer = jwt.substring(jwt.indexOf("Bearer")+7);
+        String payloadAndSignature = withoutBearer.substring(withoutBearer.indexOf(".")+1);
+        String payload = payloadAndSignature.substring(0,payloadAndSignature.indexOf("."));
+        return ResponseEntity.ok(mockSystemService.getJsonObj(payload+"validate"));
     }
 
     @GetMapping("/apps/{appId}")

@@ -1,0 +1,44 @@
+{
+  "id":13925,
+  "name":"Strength Training",
+  "duration":{
+    "start":"0T16:45:00.000Z",
+    "end":"0T18:45:00.000Z"
+  },
+  "groupActivityProduct":{
+    "id":178,
+    "name":"Strength Training"
+  },
+  "businessUnit":{
+    "id":7,
+    "name":"BRP Gym Linköping",
+    "location":"SE",
+    "companyNameForInvoice":"BRP Gym Company"
+  },
+  "locations":[
+    {
+      "id":35,
+      "name":"Outdoors"
+    }
+  ],
+  "instructors":[
+    {
+      "id":43,
+      "name":"Ros",
+      "isSubstitute":false
+    }
+  ],
+  "bookableEarliest":null,
+  "bookableLatest":null,
+  "externalMessage":null,
+  "internalMessage":null,
+  "cancelled":false,
+  "slots":{
+    "total":0,
+    "totalBookable":0,
+    "reservedForDropin":0,
+    "leftToBook":0,
+    "leftToBookIncDropin":0,
+    "hasWaitingList":false
+  }
+}

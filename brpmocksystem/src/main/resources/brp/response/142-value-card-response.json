@@ -1,0 +1,207 @@
+[
+  {
+    "id":28,
+    "number":"651727522933",
+    "valueCardProduct":{
+      "id":107,
+      "name":"Test ett klipp"
+    },
+    "validForProducts":[
+      {
+        "id":108,
+        "name":"Dagsentre klippkort"
+      }
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"UNIT",
+    "allowNegativeUnits":false,
+    "unitsLeft":1,
+    "amountLeft":null,
+    "validUntil":"2022-01-28",
+    "isValid":true
+  },
+  {
+    "id":29,
+    "number":"773185994695",
+    "valueCardProduct":{
+      "id":107,
+      "name":"Test ett klipp"
+    },
+    "validForProducts":[
+      {
+        "id":108,
+        "name":"Dagsentre klippkort"
+      }
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"UNIT",
+    "allowNegativeUnits":false,
+    "unitsLeft":1,
+    "amountLeft":null,
+    "validUntil":"2022-02-16",
+    "isValid":true
+  },
+  {
+    "id":30,
+    "number":"815461341029",
+    "valueCardProduct":{
+      "id":107,
+      "name":"Test ett klipp"
+    },
+    "validForProducts":[
+      {
+        "id":108,
+        "name":"Dagsentre klippkort"
+      }
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"UNIT",
+    "allowNegativeUnits":false,
+    "unitsLeft":1,
+    "amountLeft":null,
+    "validUntil":"2022-02-19",
+    "isValid":true
+  },
+  {
+    "id":34,
+    "number":"469309068592",
+    "valueCardProduct":{
+      "id":191,
+      "name":"10x massage"
+    },
+    "validForProducts":[
+      {
+        "id":35,
+        "name":"Herrklippning"
+      }
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"UNIT",
+    "allowNegativeUnits":false,
+    "unitsLeft":10,
+    "amountLeft":null,
+    "validUntil":"2022-06-02",
+    "isValid":true
+  },
+  {
+    "id":35,
+    "number":"148202125444",
+    "valueCardProduct":{
+      "id":190,
+      "name":"Gift card"
+    },
+    "validForProducts":[
+
+    ],
+    "businessUnit":{
+      "id":1,
+      "name":"BRP Gym Malmö",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"AMOUNT",
+    "allowNegativeUnits":false,
+    "unitsLeft":null,
+    "amountLeft":{
+      "amount":0,
+      "currency":"SEK"
+    },
+    "validUntil":"2022-06-03",
+    "isValid":false
+  },
+  {
+    "id":38,
+    "number":"280062941664",
+    "valueCardProduct":{
+      "id":190,
+      "name":"Gift card"
+    },
+    "validForProducts":[
+
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"AMOUNT",
+    "allowNegativeUnits":false,
+    "unitsLeft":null,
+    "amountLeft":{
+      "amount":10267900,
+      "currency":"SEK"
+    },
+    "validUntil":"2022-06-04",
+    "isValid":true
+  },
+  {
+    "id":41,
+    "number":"665222190877",
+    "valueCardProduct":{
+      "id":190,
+      "name":"Gift card"
+    },
+    "validForProducts":[
+
+    ],
+    "businessUnit":{
+      "id":1,
+      "name":"BRP Gym Malmö",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"AMOUNT",
+    "allowNegativeUnits":false,
+    "unitsLeft":null,
+    "amountLeft":{
+      "amount":0,
+      "currency":"SEK"
+    },
+    "validUntil":"2022-06-09",
+    "isValid":false
+  },
+  {
+    "id":76,
+    "number":"417580995352",
+    "valueCardProduct":{
+      "id":194,
+      "name":"Gift voucher"
+    },
+    "validForProducts":[
+
+    ],
+    "businessUnit":{
+      "id":7,
+      "name":"BRP Gym Linköping",
+      "location":"SE",
+      "companyNameForInvoice":"BRP Gym Company"
+    },
+    "type":"UNIT",
+    "allowNegativeUnits":false,
+    "unitsLeft":5,
+    "amountLeft":null,
+    "validUntil":"2022-06-23",
+    "isValid":true
+  }
+]

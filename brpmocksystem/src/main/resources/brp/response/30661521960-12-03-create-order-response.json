@@ -1,0 +1,78 @@
+{
+  "id": 3066,
+  "businessUnit": {
+    "id": 6,
+    "name": "BRP Gym Gothenburg",
+    "location": "NO",
+    "companyNameForInvoice": "BRP Gym Company"
+  },
+  "number": 3081,
+  "created": "2021-07-08T05:54:00.000Z",
+  "customer": {
+    "id": 142,
+    "firstName": "Isuri",
+    "lastName": "Wickramasinghe"
+  },
+  "customerType": {
+    "id": 1,
+    "name": "Ordinarie"
+  },
+  "preliminary": false,
+  "subscriptionItems": [
+    {
+      "id": 20078,
+      "price": {
+        "amount": 970000,
+        "currency": "NOK"
+      },
+      "quantity": 1,
+      "product": {
+        "id": 152,
+        "name": "Full year - Gym and classes "
+      },
+      "externalMessage": null,
+      "initialPaymentPeriod": {
+        "start": "2021-07-08",
+        "end": "2022-03-31"
+      },
+      "subscription": {
+        "id": 747,
+        "name": "Full year - Gym and classes "
+      }
+    }
+  ],
+  "articleItems": [],
+  "valueCardItems": [],
+  "eventItems": [],
+  "serviceItems": [],
+  "entryItems": [],
+  "price": {
+    "amount": 970000,
+    "currency": "NOK"
+  },
+  "leftToPay": {
+    "amount": 970000,
+    "currency": "NOK"
+  },
+  "couponDiscount": {
+    "amount": 0,
+    "currency": "NOK"
+  },
+  "vatSums": [
+    {
+      "rate": "6",
+      "amount": {
+        "amount": 54906,
+        "currency": "NOK"
+      }
+    }
+  ],
+  "externalNote": null,
+  "disclaimer": "NONE",
+  "receiverTarget": "rootcodelabs@example.com",
+  "orderStatus": {
+    "id": 1,
+    "name": "Created"
+  },
+  "lastModified": "2021-07-08T08:39:45.000Z"
+}

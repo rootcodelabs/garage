@@ -1,0 +1,3 @@
+{
+  "url": "http://127.0.0.1:8080/payment/klarna/payfororder?orderid=3066&returnurl=https%3A%2F%2Frootcodelabs.brpsystems.com%2Fbrponline%2Fapi%2Fver3%2Fpaymentresultt&paymentmethodid=26&hash=2ed99510845bf6dd5c723dd531c71deaa9446b536960c4a4533a437b3fc1373a"
+}

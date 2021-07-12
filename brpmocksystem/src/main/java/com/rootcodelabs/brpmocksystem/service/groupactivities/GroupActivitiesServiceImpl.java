@@ -79,15 +79,14 @@ public class GroupActivitiesServiceImpl implements  GroupActivityService{
 
         JSONArray arr = null;
 
-
         for(MockJson entity:jsonEntity) {
             arr = jsonParserClient.getJsonArray(entity.getPayload());
         }
-        for (Object obj:arr){
-            //JSONObject jsonObj = null;
-            timeAdjuster((JSONObject) obj);
 
+        for (Object obj:arr){
+            dateAdjuster((JSONObject) obj);
         }
+
         return arr;
     }
 
@@ -98,16 +97,12 @@ public class GroupActivitiesServiceImpl implements  GroupActivityService{
 
         for(MockJson entity:jsonEntity) {
             obj = jsonParserClient.getJsonObject(entity.getPayload());
-            timeAdjuster(obj);
+            dateAdjuster(obj);
         }
         return obj;
     }
-    private void timeAdjuster(JSONObject jsonObj){
+    private void dateAdjuster(JSONObject jsonObj){
 
-//        JSONObject jsonObj = null;
-//
-//
-//            jsonObj = (JSONObject) obj;
             Object duration = jsonObj.get("duration");
 
             String startDateTimeFactor = duration.toString().substring(duration.toString().indexOf("start")+8,duration.toString().indexOf("end") -3);

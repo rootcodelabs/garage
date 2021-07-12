@@ -1,0 +1,47 @@
+{
+  "id": 3066,
+  "businessUnit": {
+    "id": 6,
+    "name": "BRP Gym Gothenburg",
+    "location": "NO",
+    "companyNameForInvoice": "BRP Gym Company"
+  },
+  "number": 3081,
+  "created": "2021-07-08T05:54:00.000Z",
+  "customer": {
+    "id": 142,
+    "firstName": "Isuri",
+    "lastName": "Wickramasinghe"
+  },
+  "customerType": {
+    "id": 1,
+    "name": "Ordinarie"
+  },
+  "preliminary": true,
+  "subscriptionItems": [],
+  "articleItems": [],
+  "valueCardItems": [],
+  "eventItems": [],
+  "serviceItems": [],
+  "entryItems": [],
+  "price": {
+    "amount": 0,
+    "currency": "NOK"
+  },
+  "leftToPay": {
+    "amount": 0,
+    "currency": "NOK"
+  },
+  "couponDiscount": {
+    "amount": 0,
+    "currency": "NOK"
+  },
+  "vatSums": [],
+  "externalNote": null,
+  "disclaimer": "NONE",
+  "receiverTarget": "rootcodelabs@example.com",
+  "orderStatus": {
+    "id": 1,
+    "name": "Created"
+  }
+}

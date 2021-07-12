@@ -1,0 +1,375 @@
+[
+  {
+    "id": 10,
+    "addition": {
+      "id": 67,
+      "name": "Tofflor",
+      "productLabels": [],
+      "businessUnits": [
+        {
+          "id": 1,
+          "name": "BRP Gym Malmö",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        },
+        {
+          "id": 6,
+          "name": "BRP Gym Gothenburg",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        },
+        {
+          "id": 7,
+          "name": "BRP Gym Linköping",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        }
+      ],
+      "description": "Get a round tour with one of our employees to start safely with our equipment. Get a round tour with one of our employees to start safely with our equipment Get a round tour with one of our employees to start safely with our equipment. Get a round tour with one of our employees to start safely with our equipmentGet a round tour with one of our employees to start safely with our equipmentGet a round tour with one of our employees to start safely with our equipment",
+      "assets": [
+        {
+          "reference": "GroupActivity_037",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_main_s.jpg",
+          "imageWidth": 380,
+          "imageHeight": 328
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_main_m.jpg",
+          "imageWidth": 760,
+          "imageHeight": 656
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_main_l.jpg",
+          "imageWidth": 1140,
+          "imageHeight": 984
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_main_xl.jpg",
+          "imageWidth": 1520,
+          "imageHeight": 1312
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_centered_s.jpg",
+          "imageWidth": 64,
+          "imageHeight": 112
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_centered_m.jpg",
+          "imageWidth": 128,
+          "imageHeight": 224
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_centered_l.jpg",
+          "imageWidth": 192,
+          "imageHeight": 336
+        },
+        {
+          "reference": "GroupActivity_037",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_037_centered_xl.jpg",
+          "imageWidth": 256,
+          "imageHeight": 448
+        }
+      ],
+      "imageBanner": {
+        "text": "FUN Series",
+        "backgroundColor": "#f48fb1"
+      },
+      "debitMethod": "MANUAL_DEBIT",
+      "productType": "ARTICLE",
+      "priceWithInterval": {
+        "interval": null,
+        "price": {
+          "amount": 12000,
+          "currency": "SEK"
+        }
+      },
+      "changesMainContractEndDate": false
+    },
+    "selectOptions": {
+      "NEW_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "ORG_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "REGISTER_ORG_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "SIGN_SUBSCRIPTION": {
+        "mandatory": false,
+        "preSelected": false
+      }
+    }
+  },
+  {
+    "id": 11,
+    "addition": {
+      "id": 27,
+      "name": "Coffeee XL",
+      "productLabels": [],
+      "businessUnits": [
+        {
+          "id": 1,
+          "name": "BRP Gym Malmö",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        },
+        {
+          "id": 6,
+          "name": "BRP Gym Gothenburg",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        },
+        {
+          "id": 7,
+          "name": "BRP Gym Linköping",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        }
+      ],
+      "description": "För den extra trötta och törstiga",
+      "assets": [
+        {
+          "reference": "GroupActivity_087",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_main_s.jpg",
+          "imageWidth": 380,
+          "imageHeight": 328
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_main_m.jpg",
+          "imageWidth": 760,
+          "imageHeight": 656
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_main_l.jpg",
+          "imageWidth": 1140,
+          "imageHeight": 984
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_main_xl.jpg",
+          "imageWidth": 1520,
+          "imageHeight": 1312
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_centered_s.jpg",
+          "imageWidth": 64,
+          "imageHeight": 112
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_centered_m.jpg",
+          "imageWidth": 128,
+          "imageHeight": 224
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_centered_l.jpg",
+          "imageWidth": 192,
+          "imageHeight": 336
+        },
+        {
+          "reference": "GroupActivity_087",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_087_centered_xl.jpg",
+          "imageWidth": 256,
+          "imageHeight": 448
+        }
+      ],
+      "imageBanner": {
+        "text": "Coffee",
+        "backgroundColor": "#ff8a65"
+      },
+      "debitMethod": "MANUAL_DEBIT",
+      "productType": null,
+      "priceWithInterval": {
+        "interval": null,
+        "price": {
+          "amount": 3900,
+          "currency": "SEK"
+        }
+      },
+      "changesMainContractEndDate": true
+    },
+    "selectOptions": {
+      "NEW_CUSTOMER": {
+        "mandatory": true,
+        "preSelected": true
+      },
+      "ORG_CUSTOMER": {
+        "mandatory": true,
+        "preSelected": true
+      },
+      "REGISTER_ORG_CUSTOMER": {
+        "mandatory": true,
+        "preSelected": true
+      },
+      "SIGN_SUBSCRIPTION": {
+        "mandatory": true,
+        "preSelected": true
+      }
+    }
+  },
+  {
+    "id": 26,
+    "addition": {
+      "id": 195,
+      "name": "SH - With Autogiro",
+      "productLabels": [],
+      "businessUnits": [
+        {
+          "id": 7,
+          "name": "BRP Gym Linköping",
+          "location": "SE",
+          "companyNameForInvoice": "BRP Gym Company"
+        }
+      ],
+      "description": "Join our clubs with a fulll tiime membership. With this membership you can join commercial group-fitness sports inspired cardio workout program including some sports-derived movements, aimed primarily at developing cardiovascular fitness. The program is created and distributed by Les Mills International.  There is a release with new music every quarter.Join our clubs with a fulll tiime membership. ",
+      "assets": [
+        {
+          "reference": "GroupActivity_090",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_main_s.jpg",
+          "imageWidth": 380,
+          "imageHeight": 328
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_main_m.jpg",
+          "imageWidth": 760,
+          "imageHeight": 656
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_main_l.jpg",
+          "imageWidth": 1140,
+          "imageHeight": 984
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "MAIN",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_main_xl.jpg",
+          "imageWidth": 1520,
+          "imageHeight": 1312
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_centered_s.jpg",
+          "imageWidth": 64,
+          "imageHeight": 112
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_centered_m.jpg",
+          "imageWidth": 128,
+          "imageHeight": 224
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_centered_l.jpg",
+          "imageWidth": 192,
+          "imageHeight": 336
+        },
+        {
+          "reference": "GroupActivity_090",
+          "type": "CENTERED",
+          "contentType": "image/jpg",
+          "contentUrl": "https://storage.googleapis.com/brp-app-assets/GroupActivity_090_centered_xl.jpg",
+          "imageWidth": 256,
+          "imageHeight": 448
+        }
+      ],
+      "imageBanner": {
+        "text": "Autogiro",
+        "backgroundColor": "#6d4c41"
+      },
+      "debitMethod": "AG_PAYMENT",
+      "productType": "SUBSCRIPTION",
+      "priceWithInterval": {
+        "interval": {
+          "numberOf": 1,
+          "unit": "MONTH"
+        },
+        "price": {
+          "amount": 0,
+          "currency": "SEK"
+        }
+      },
+      "changesMainContractEndDate": false,
+      "givesMembership": true
+    },
+    "selectOptions": {
+      "NEW_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "ORG_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "REGISTER_ORG_CUSTOMER": {
+        "mandatory": false,
+        "preSelected": false
+      },
+      "SIGN_SUBSCRIPTION": {
+        "mandatory": false,
+        "preSelected": false
+      }
+    }
+  }
+]
